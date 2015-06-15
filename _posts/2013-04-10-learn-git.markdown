@@ -1,0 +1,13 @@
+---
+layout: post
+title: Learn Git
+date: April 10, 2013
+--- 
+
+I released a new video [over at Mijingo](https://mijingo.com/products/screencasts/git-tutorial-video/) called [Basics of Git](https://mijingo.com/products/screencasts/git-tutorial-video/).
+
+> Have you been unsure about adding version control to your web design and development workflow? Do you already use it but aren't sure exactly what you're doing and need a refresher? This video is for you. In 54 minutes of training you can get the foothold you need to start using Git with your web projects.
+
+<iframe src="http://player.vimeo.com/video/63738058" width="650" height="366" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+Ready to learn Git or improve your skills? [This video is what you need](https://mijingo.com/products/screencasts/git-tutorial-video/).

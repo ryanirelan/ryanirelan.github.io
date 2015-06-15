@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Behind Learning SVG"
+date: 2014-11-05 16:48:24 -0600
+comments: true
+categories: 
+---
+
+A couple weeks ago I released a new course, _[Up and Running with SVG](https://mijingo.com/products/screencasts/svg-tutorial/)_, over at Mijingo. 
+
+I also did something for the first time: I put together a [website](http://svgtutorial.com) with a lot of the course material and made it free. 
+
+[SVGTutorial.com](http://svgtutorial.com), the website that accompanies the video course, has a lot of the content that is in the course but in written form. On each page, I politely ask people who get value from the content to purchase the full course so they can get everything and the better experience of watching the video. And, of course, support me and my work.
+
+Creating the website wasn't a lot of extra work. It only took a few hours--mostly to tweak the [Octopress theme](https://github.com/TheChymera/Koenigspress) I am using--to go from nothing to a published site. 
+
+While researching and preparing to record _Up and Running with SVG_, I wrote out the entire course in a Markdown document, including code examples. This is a new way I've begun preparing courses because I've found that writing it all down helps me better structure and evaluate the content. 
+
+As a nice byproduct I get written content that I can then use on a website or to include with the course as a PDF handbook.
+
+Since all of the writing was already in Markdown--and I use Markdown for the website--I only had to copy content from one document and paste it in another. Fast and simple.
+
+Putting the site together was a lot of fun and I'm planning to do the same for some other courses.
+
+Through the process of writing out the entire course longform (as opposed to just a detailed outline like I used to do), I have re-discovered the joy I get from teaching with my writing. It's something I enjoyed so much back in the late aughts when I wrote my [ExpressionEngine book](https://pragprog.com/book/riexen/expressionengine-2).
+
+Here's the teaser for the course:
+
+<iframe src="//fast.wistia.net/embed/iframe/rfheg189ua" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="800" height="478"></iframe>
+
+Do you want to get started with SVG? [I know a site that can help you](http://svgtutorial.com).

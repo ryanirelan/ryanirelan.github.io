@@ -1,0 +1,19 @@
+---
+layout: default
+single: true
+---
+    <article>
+      {% if page.external-url %}
+        <h2 class="linked-post"><a href="{{ page.external-url }}">{{ page.title }}</a></h2>
+      {% else %}
+        <h2>{{ page.title }}</h2>
+      {% endif %}
+      {{ content }}
+	
+	     <p class="published-on"><time pubdate datetime="{{page.date | date: '%m-%d-%Y'}}">Published on {{page.date | date: "%B %-d, %Y"}}</time></p>	
+    </article>
+
+    <div class="extra">
+      <p>Want to share your thoughts? <a href="http://twitter.com/home?status=@ryanirelan" target="_blank">@Reply to me on Twitter</a>.</p>
+      <p>There&#8217;s more to <a href="/archive.html">read in the archive.</a></p>
+    </div>

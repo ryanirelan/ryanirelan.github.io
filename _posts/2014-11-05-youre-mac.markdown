@@ -1,0 +1,10 @@
+---
+layout: post
+title: "You're Mac"
+date: 2014-11-05 22:25:53 -0600
+comments: true
+categories: 
+external-url: http://macsparky.com/blog/2014/11/youre-mac
+---
+
+An honest glimpse into how OS X users are _still_ treated in many enterprise and corporate environments. Many companies have begrudgingly accepted the iPhone (but only because the executives wanted them, too) but, as David shows, there's still some lingering stink of Apple hardware being somehow incompatible with the rest of the world.
