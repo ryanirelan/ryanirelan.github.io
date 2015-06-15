@@ -81,7 +81,9 @@ footer {
   width: 50%;
   margin-left: 25%;
   font-size: 0.618em;
-  font-family: "myriad-pro-condensed",sans-serif;
+  font-family: 'Tungsten A', 'Tungsten B'; 
+  font-weight: 400; 
+  font-style: normal;
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 1px; }
@@ -154,10 +156,11 @@ h1 a:hover {
 
 #content article h4 {
   font-size: 1.426em;
-  font-weight: 100;
   color: #111;
   margin: 1em 0 0 0;
-  font-family: "myriad-pro-condensed",sans-serif; }
+  font-family: 'Whitney A', 'Whitney B'; 
+  font-weight: 400; 
+  font-style: normal; }
 
 #content article p {
   font-size: 1em;
@@ -188,10 +191,12 @@ h1 a:hover {
 
 #recent-entries h4 {
   font-size: 1em;
-  font-weight: 200;
+  /*font-weight: 200;*/
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-family: "myriad-pro-condensed",sans-serif; }
+  font-family: 'Whitney A', 'Whitney B'; 
+  font-weight: 400; 
+  font-style: normal; }
 
 #recent-entries ul {
   margin-top: 15px;
@@ -240,10 +245,12 @@ ul#archive li em {
 
 #search h4 {
   font-size: 1em;
-  font-weight: 200;
+  /*font-weight: 200;*/
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-family: "myriad-pro-condensed",sans-serif;
+  font-family: 'Whitney A', 'Whitney B'; 
+  font-weight: 400; 
+  font-style: normal;
   margin-bottom: 15px; }
 
 #content article h2.linked-post {
