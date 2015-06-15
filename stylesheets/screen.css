@@ -40,7 +40,9 @@ body {
   background-color: #fff;
   font-size: 24px;
   /* scale origin */
-  font-family: "freight-text-pro-1","freight-text-pro-2",serif;
+  font-family: 'Whitney A', 'Whitney B'; 
+  font-weight: 400; 
+  font-style: normal;
   color: rgba(0, 0, 0, 0.8); }
 
 img, embed, video, object {
