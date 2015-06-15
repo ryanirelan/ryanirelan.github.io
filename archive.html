@@ -1,0 +1,17 @@
+---
+layout: default
+title: Archive
+---
+
+<h2 class="archive">Previously</h2>
+
+<ul id="archive">
+	{% for post in site.posts %}
+	<li><a href="{{ post.url }}">{{post.title}}</a></li>
+	{% endfor %}
+</ul>
+
+<div class="extra">
+	<p>I've moved some select and recent entries from the <a href="http://archive.ryanirelan.com">old site</a> over to this new site. This is almost everything I've written on the site starting in February 2011.</p>
+	<p>My entire archives going back to 2001 can be found at <a href="http://archive.ryanirelan.com">archive.ryanirelan.com</a>. They are stored there as a snapshot of the past and all URLs have been properly redirected so no inbound links are broken.</p>
+</div>

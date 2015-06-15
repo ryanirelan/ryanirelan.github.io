@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Learn Git with Mijingo"
+date: 2015-02-23 22:06:49 -0600
+comments: true
+categories: 
+---
+
+Last week I released a brand new course over at Mijingo that covers [intermediate Git](https://mijingo.com/products/screencasts/intermediate-git-tutorial/) usage. The course is 3 modules and several videos and is aimed at helping you go from a normal Git user (git-add, git-commit, etc) to someone with some power moves like git-bisect, git-revert, and customizing the output of the git log.
+
+<iframe src="//fast.wistia.net/embed/iframe/muixry3mp4" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="900" height="506"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+
+
+The course is 114 minutes long and includes a free, written course workbook, slides, and a long list of additional resources for you to use.
+
+[Check out the new Git videos](https://mijingo.com/products/screencasts/intermediate-git-tutorial/).
+

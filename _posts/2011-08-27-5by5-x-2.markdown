@@ -1,0 +1,28 @@
+---
+layout: post
+title: 5by5 x 2
+date: August 27, 2011
+published: true
+--- 
+
+For the last two weeks I had the privilege of sitting in for [Dan Benjamin](http://danbenjamin.com) as co-host of a handful of shows on his [5by5 network](http://5by5.tv) (Dan was out on paternity leave). It was a lot of fun but hard work, too. Dan certainly makes it look easy. There's a lot happening before and during recording on top of carrying on conversations with his brilliant co-hosts.
+
+I also happened to be filling in during a crazy week in the technology sector: [Google announced it will buy Motorola Mobility](http://dealbook.nytimes.com/2011/08/15/google-to-buy-motorola-mobility/?scp=1&sq=google%20buys%20motorola&st=cse), HP said it's [getting out of the PC business and shutting down the WebOS product line](http://www.nytimes.com/2011/08/19/technology/hp-plans-big-shift-toward-business-customers.html?_r=1&scp=4&sq=HP&st=cse) and [Steve Jobs resigned as CEO of Apple](http://www.nytimes.com/2011/08/25/technology/jobs-stepping-down-as-chief-of-apple.html?scp=10&sq=steve%20jobs&st=cse). The last shocker came after I recorded my final show but which [Dan jumped in to discuss with John Gruber on The Talk Show](http://5by5.tv/talkshow/56).
+
+_Breathe_. 
+
+In a way, this surge of big news items made my job easier. There was plenty to talk about on the shows and the big news was right in my wheelhouse. I follow technology companies and regularly read all of the major news stories in that space. The big perk was I got to hop on the mic and talk about the news with some really smart people.
+
+Here's a list of shows I did:
+
+* _Build & Analyze_: [Decaf Compatibility Stick](http://5by5.tv/buildanalyze/38)
+* _Build & Analyze_: [TouchPad vs. TextMate vs. BBEdit](http://5by5.tv/buildanalyze/39)
+* _Critical Path_: [Aquisitions](http://5by5.tv/criticalpath/4)
+* _Critical Path_: [HP's Innovation Antibodies](http://5by5.tv/criticalpath/5)
+* _Hypercritical_: [Paths in the Grass](http://5by5.tv/hypercritical/30) 
+* _Hypercritical_: [Strongs Arguments for and Against](http://5by5.tv/hypercritical/31)
+* _The Talk Show_: [More Babies](http://5by5.tv/talkshow/55)
+
+Dan is back next week and I'm resuming my regular schedule of [cool stuff during the day](http://happycog.com/) and then [creating helpful training materials at night](http://mijingo.com/).
+
+Thanks to the 5by5 listeners for the warm welcome.

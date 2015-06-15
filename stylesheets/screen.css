@@ -1,0 +1,428 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* ------ Site Styles ------- */
+/* Modular Scale
+--------------------------------
+24px @ 1:1.618	 145px @ 1:1.618
+-------------------------------*/
+body {
+  background-color: #fff;
+  font-size: 24px;
+  /* scale origin */
+  font-family: "freight-text-pro-1","freight-text-pro-2",serif;
+  color: rgba(0, 0, 0, 0.8); }
+
+img, embed, video, object {
+  width: 100%; }
+
+blockquote {
+  color: #555;
+  margin: 1em 0 1em 1em;
+  font-size: 0.882em;
+  font-style: italic; }
+
+blockquote p {
+  font-size: 1em; }
+
+sup {
+  font-size:50%;
+  top: -0.5em;
+}
+
+header {
+  margin: 0 0 101.659px 0;
+  width: 100%; }
+
+header p {
+  font-weight: 200;
+  font-size: 0.882em;
+  line-height: 1.426em;
+  margin-bottom: 0.882em;
+  margin-top: 0.882em;
+  font-style: italic;
+  text-align: center; }
+
+footer {
+  margin-top: 2.308em;
+  margin-bottom: 2.308em;
+  width: 50%;
+  margin-left: 25%;
+  font-size: 0.618em;
+  font-family: "myriad-pro-condensed",sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px; }
+
+footer ul {
+  margin: 0 0 0px 25px; }
+
+footer ul li {
+  display: inline;
+  margin-right: 25px;
+  font-size: 11px; }
+
+a {
+  /*color:#ef7a28;*/
+  color: orange;
+  text-decoration: none; }
+
+a:hover {
+  color: #333;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease; }
+
+h1, h1 a {
+  font-size: 145px;
+  /* scale origin */
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  color: #000;
+  font-weight: 400;
+  font-family: "myriad-pro-condensed",sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+
+h1 a:hover {
+  color: #666; }
+
+#page {
+  width: 34.232em;
+  margin: 2% auto; }
+
+/*a.arrow-link {
+	font-size:125%;
+	text-decoration:none;
+}*/
+#content {
+  margin-top: 2.308em; }
+
+#content article {
+  margin-bottom: 50px; }
+
+#content article h2 {
+  font-size: 2.618em;
+  margin: 0;
+  font-weight: 500;
+  text-align: center; }
+
+#content article h2 a {
+  color: #111; }
+
+#content article h3 {
+  font-size: 1.426em;
+  margin: 1.426em 0 0 0;
+  font-weight: 300;
+  text-align: center;
+  font-style: italic; }
+
+#content article h4 {
+  font-size: 1.426em;
+  font-weight: 100;
+  color: #111;
+  margin: 1em 0 0 0;
+  font-family: "myriad-pro-condensed",sans-serif; }
+
+#content article p {
+  font-size: 1em;
+  line-height: 1.7em;
+  margin: 1em 0; }
+
+#content article ul {
+  list-style-type: square;
+  margin: 1em 0 1em 1em;
+  font-size: 1em;
+  line-height: 1.618em; }
+
+#content article ul li {
+  margin-bottom: 0.882em; }
+
+#content article p.published-on {
+  font-size: .7em;
+  color: #333; }
+
+#content img, embed, object, video {
+  max-width: 100%; }
+
+#recent-entries {
+  border-top: 1px solid #ddd;
+  margin-top: 25px;
+  padding-top: 25px;
+  text-align: center; }
+
+#recent-entries h4 {
+  font-size: 1em;
+  font-weight: 200;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: "myriad-pro-condensed",sans-serif; }
+
+#recent-entries ul {
+  margin-top: 15px;
+  list-style-type: one; }
+
+#recent-entries ul li {
+  font-size: 0.882em;
+  margin-bottom: 10px; }
+
+h2.archive {
+  font-size: 2.308em;
+  margin: 1em 0;
+  font-weight: 500;
+  text-align: center; }
+
+ul#archive {
+  list-style-type: none;
+  text-align: center;
+  font-size: 1em;
+  margin-top: 0.618em; }
+
+ul#archive li {
+  margin-bottom: 10px; }
+
+ul#archive li em {
+  color: #666; }
+
+.extra p {
+  font-size: 1em;
+  line-height: 1.618em;
+  color: #666;
+  margin: 1em 0; }
+
+#search {
+  border-top: 1px solid #ddd;
+  margin-top: 25px;
+  padding-top: 25px;
+  text-align: center; }
+
+#search div.search-box {
+  margin-bottom: 25px; }
+
+#search input#searchpath_q {
+  width: 50%;
+  font-size: 1em; }
+
+#search h4 {
+  font-size: 1em;
+  font-weight: 200;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: "myriad-pro-condensed",sans-serif;
+  margin-bottom: 15px; }
+
+#content article h2.linked-post {
+  font-size: 1em;
+  text-align: left; }
+#content article h2.linked-post a {
+  border-bottom: 1px solid;
+  color: #aaa; }
+#content article h2.linked-post a.linked-permalink {
+  font-size: 0.8em;
+  border: none;
+  color: #eee; }
+#content article h2.linked-post a:hover {
+  color: #333; }
+
+/* Responsive All Up In Here */
+/* LOCKED MEDIA QUERIES FOR IPHONE & IPAD SUPPORT */
+@media screen and (max-width: 1600px) {
+  h1, h1 a {
+    font-size: 145px; }
+
+  #page {
+    /*width: 25.591em;*/
+    margin: 3% auto; } }
+@media screen and (max-width: 1024px) {
+  h1, h1 a {
+    font-size: 145px; }
+
+  #page {
+    margin: 5% auto; } }
+@media screen and (max-width: 940px) {
+  h1, h1 a {
+    font-size: 145px; }
+
+  #page {
+    margin: 5% auto; } }
+@media screen and (max-width: 768px) {
+  h1, h1 a {
+    font-size: 145px; }
+
+  header p {
+    /*font-size:100%;*/
+    line-height: 1.5em; }
+
+  #page {
+    width: 90%;
+    margin: 5% auto; }
+
+  body#gameday {
+    background-size: 50%; } }
+@media screen and (max-width: 660px) {
+  h1, h1 a {
+    font-size: 145px; } }
+@media screen and (max-width: 563px) {
+  h1, h1 a {
+    font-size: 101.659px; } }
+@media screen and (max-width: 500px) {
+  h1, h1 a {
+    font-size: 205%; } }
+@media screen and (max-width: 480px) {
+  h1, h1 a {
+    font-size: 203%; }
+
+  header p {
+    font-weight: 300;
+    font-size: 90%;
+    line-height: 1.5em; }
+
+  footer {
+    width: 100%;
+    margin-left: 1%; }
+
+  #page {
+    width: 90%;
+    margin: 10% auto; }
+
+  body#gameday {
+    background-size: 100%; } }
+@media screen and (max-width: 450px) {
+  h1, h1 a {
+    font-size: 190%; } }
+@media screen and (max-width: 420px) {
+  h1, h1 a {
+    font-size: 180%; }
+
+  header p {
+    font-weight: 300;
+    font-size: 90%;
+    line-height: 1.5em; }
+
+  footer {
+    width: 100%;
+    margin-left: 1%; }
+
+  #page {
+    width: 90%;
+    margin: 10% auto; }
+
+  body#gameday {
+    background-size: 100%; } }
+@media screen and (max-width: 350px) {
+  h1, h1 a {
+    font-size: 62.830px;
+    font-weight: 300; }
+
+  header p {
+    display: none; }
+
+  #content {
+    margin-top: 1.426em; }
+
+  #content article h2 {
+    font-size: 1.426em;
+    font-weight: 500; }
+
+  #content article h2.linked-post a {
+    font-size: 0.9em; }
+
+  #content article h3 {
+    font-size: 1em; }
+
+  #content article h4 {
+    font-size: 0.882em; }
+
+  #content article p {
+    font-size: 0.618em;
+    line-height: 1.426em;
+    margin: 1em 0; }
+
+  #content article ul {
+    font-size: 0.618em;
+    line-height: 1.426em; }
+
+  footer {
+    width: 100%;
+    margin-left: 1%; }
+
+  #page {
+    width: 90%;
+    margin: 10% auto; }
+
+  body#gameday {
+    background-size: 100%; }
+
+  .extra p {
+    font-size: 0.618em;
+    line-height: 1.426em;
+    color: #666;
+    margin: 1em 0; }
+
+  h2.archive {
+    font-size: 1.426em;
+    margin: 1em 0; }
+
+  ul#archive {
+    list-style-type: none;
+    text-align: center;
+    font-size: 0.882em;
+    margin-top: 0.618em; } }
+/* END LOCKED MEDIA QUERIES FOR IPAD AND IPHONE */
+/* Game Day CSS */
+body#gameday {
+  background: url("/img/goheelsgo.png") no-repeat fixed 0 50%, url("/img/pattern.png") fixed repeat;
+  /*background-repeat:no-repeat;*/
+  background-color: #56A0D3;
+  background-size: 40%; }
+
+body#gameday a, body#gameday a:visited {
+  color: #ccc; }
+
+body#gameday a:hover {
+  color: #fff; }
+
+body#gameday h1, body#gameday h1 a, body#gameday h1 a:visited, body#gameday h2, body#gameday h2 a, body#gameday h2 a:visited, body#gameday h3, body#gameday h4 {
+  color: #fff; }
+
+body#gameday blockquote {
+  background-color: transparent;
+  margin-left: 50px; }
+
+body#gameday p {
+  color: #fff; }
+
+body#gameday ul {
+  color: #fff; }
