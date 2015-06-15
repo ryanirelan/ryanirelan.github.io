@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Editorial 1.2"
+external-url: http://www.macstories.net/reviews/editorial-1-2-brings-powerful-new-text-editing-features-more-ios-automation/
+---
+
+Almost a full year since the last point release, this update brings iPhone 6 support but lots of other goodies for folks like me who like to write and publish on iOS devices. 
