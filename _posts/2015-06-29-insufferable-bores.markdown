@@ -8,4 +8,4 @@ external-url: http://www.slate.com/articles/health_and_science/medical_examiner/
 
 A fiery look at the good/bad coffee studies that always make the world out to be so binary. It turns Americans  into "insufferable bores" according to the author. 
 
-Just Amercians? 
+Just Americans? 
