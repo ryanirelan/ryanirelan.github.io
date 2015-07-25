@@ -1,0 +1,15 @@
+---
+layout: default
+single: true
+---
+    <article>
+      <blockquote class="update">
+        {{ content }}
+	     <p class="published-on"><time pubdate datetime="{{page.date | date: '%m-%d-%Y'}}">Published on {{page.date | date: "%B %-d, %Y"}}</time></p>
+       </blockquote>
+    </article>
+
+    <div class="extra">
+      <p>Want to share your thoughts? <a href="http://twitter.com/home?status=@ryanirelan" target="_blank">@Reply to me on Twitter</a>.</p>
+      <p>There&#8217;s more to <a href="/archive.html">read in the archive.</a></p>
+    </div>

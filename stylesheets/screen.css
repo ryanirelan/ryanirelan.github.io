@@ -183,6 +183,20 @@ h1 a:hover {
 #content img, embed, object, video {
   max-width: 100%; }
 
+#content article blockquote.update {
+  background-color: #fff;
+  border:1px solid #eee;
+  padding:25px;
+}
+
+#content article blockquote.update p {
+  margin:0;
+}
+
+#content article blockquote.update small {
+  font-size:0.8em;
+}
+
 #recent-entries {
   border-top: 1px solid #ddd;
   margin-top: 25px;
