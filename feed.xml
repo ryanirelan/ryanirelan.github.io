@@ -16,7 +16,7 @@ layout: nil
 
  {% for post in site.posts limit:15 %}
  <entry>
-   <title>{{ post.title }}</title>
+   <title>{% if post.layout == 'update' %}{% else %}{{ post.title }}{% endif %}</title>
    {% if post.external-url %}
    <link href="{{ post.external-url }}"/>
    {% else %}

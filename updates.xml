@@ -4,8 +4,8 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Ryan Irelan</title>
- <link href="http://ryanirelan/feedburner.xml" rel="self"/>
+ <title>Ryan Irelan Updates</title>
+ <link href="http://ryanirelan/updates.xml" rel="self"/>
  <link href="http://ryanirelan.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://ryanirelan.com/</id>
@@ -15,8 +15,9 @@ layout: nil
  </author>
 
  {% for post in site.posts %}
+ {% if post.layout == 'update' %}
  <entry>
-   <title>{% if post.layout == 'update' %}{% else %}{{ post.title }}{% endif %}</title>
+   <title></title>
    {% if post.external-url %}
    <link href="{{ post.external-url }}"/>
    {% else %}
@@ -26,6 +27,7 @@ layout: nil
    <id>http://ryanirelan.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
+{% endif %}
  {% endfor %}
  
 </feed>
