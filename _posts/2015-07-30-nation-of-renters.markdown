@@ -2,6 +2,7 @@
 layout: post
 title: "Nation of Renters"
 external-url: http://om.co/2015/07/30/america-a-nation-of-renters/
+date: 2015-07-30T20:35:13-05:00
 ---
 
 Om Malik:
