@@ -13,7 +13,7 @@ layout: default
       {% if post.layout == 'update' %}
       <blockquote class="update">
         {{ post.content }}
-        <p><small><a class="linked-permalink" href="{{ post.url }}"><time pubdate datetime="{{post.date | date: '%m-%d-%Y'}}">{{post.date | date: "%B %-d, %Y"}}</time></a></small></p>
+        <p><small><a class="linked-permalink" href="{{ post.url }}"><time pubdate datetime="{{post.date | date: '%m-%d-%Y %h:%m'}}">{{post.date | date: "%B %-d, %Y at %I:%M %p"}}</time></a></small></p>
       </blockquote>
       {% else %}
       {{ post.content }} 
