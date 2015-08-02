@@ -1,0 +1,7 @@
+---
+layout: update
+title: "iOS 9 on my iPhone 6 Plus ran hot at first. "
+date: 2015-08-01T20:11:48-5:00
+---
+
+iOS 9 beta ran hot on my phone at first but now it's okay. Is it Spotlight indexing?
