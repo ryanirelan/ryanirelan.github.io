@@ -19,4 +19,6 @@ But I detest unitaskers.
 
 The Apple Watch, after only three runs using it, is _nearly_ perfect. The Sport model holds up to sweat, it's quick to activate so I can see the details of my run (there's a little lag when it calls back to the phone to get the updated data), and, using the Runkeeper app, I can stop and save my workout without pulling out my phone.
 
+With WatchOS 2 and the availability of heart rate data to third party apps, the appeal of using the watch for running was even greater.
+
 I wasn't sure I needed an Apple Watch back in the Spring. But now I am. I plan to wear it on every training run and race. Goodbye headphones.
