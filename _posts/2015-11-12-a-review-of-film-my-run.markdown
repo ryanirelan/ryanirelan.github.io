@@ -3,8 +3,6 @@ layout: post
 title: "A Review of the film My Run"
 ---
 
-On Running: A Review of _My Run_
-
 Since I started running 9 months ago I’ve been curious about others’ running experiences, especially people on the edges: those who are elite and pushing the boundaries in distance and speed, and those who are new to running and doing something amazing.
 
 That drew me to the story of Terry Hitchcock: a widower who lost his wife to cancer, and single father raising three kids. You probably heard his story back in the early 90s.
