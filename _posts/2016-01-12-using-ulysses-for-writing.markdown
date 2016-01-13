@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ulysses 360"
+title: "Writing with Ulysses"
 ---
 
 A while back I switched to using [Ulysses](http://ulyssesapp.com) for my writing. I switched from my normal setup of Markdown files in BBEdit and Marked app because I wanted something that gave me more control over organizing (and visualizing) my writing and easier access on all devices. I don't write here a lot  but I am writing almost daily on upcoming courses for Mijingo. 
