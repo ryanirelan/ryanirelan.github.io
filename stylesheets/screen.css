@@ -197,6 +197,11 @@ h1 a:hover {
   font-size:0.8em;
 }
 
+#content article .footnotes {
+  font-size: 80%;
+  border-top: 1px solid #eee;
+}
+
 #recent-entries {
   border-top: 1px solid #ddd;
   margin-top: 25px;
