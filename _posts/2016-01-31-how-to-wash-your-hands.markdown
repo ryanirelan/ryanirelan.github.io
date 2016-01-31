@@ -8,11 +8,9 @@ external-url: http://www.artofmanliness.com/2016/01/29/how-to-wash-your-hands-li
 
 Those folks that know me well (hi, former co-workers) are aware that I am particularly careful about clean hands. I don't think I'm a germaphobe (but have been told I am, which is a misunderstanding) but I do care that I and everyone else properly wash hands.
 
-If you are male (I can only speak from my own experience) and have been in a public bathroom, especially an airport bathroom, you'll know from anecdotal experience that  _a lot of people don't wash their hands properly or, I hate to say it, wash them at all_. No, rinsing with water your two finger that you used to hold yourself while urinating isn't washing your hands. It's making your fingers wet. 
+If you are male (I can only speak from my own experience) and have been in a public bathroom, especially an airport bathroom, you'll know from anecdotal experience that  _a lot of people don't wash their hands properly or, I hate to say it, wash them at all_.
 
-Proper hand washing (as illustrated in linked article) isn't only about preventing the spread of the common code, flu, Norovirus  or, god forbid, E. coli.  
-
-It's about proper  hygienic care as a respectful human in a larger community. Disease and illness is prevented by individual effort. 
+Proper hand washing (as illustrated in the linked article) isn't only about preventing the spread of the common cold, flu, Norovirus  or, god forbid, E. coli. It's about proper hygienic care as a respectful human in a larger community. Disease and illness can be prevented by individual effort. 
 
 At our home we're not hyper about hand washing but we have a few basic protocols:
 
