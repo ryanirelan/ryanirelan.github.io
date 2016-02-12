@@ -97,8 +97,7 @@ footer ul li {
   font-size: 11px; }
 
 a {
-  /*color:#ef7a28;*/
-  color: orange;
+  color: #0033CC;
   text-decoration: none; }
 
 a:hover {
@@ -286,10 +285,9 @@ ul#archive li em {
   color: #aaa; }
 #content article h2.linked-post a.linked-permalink {
   font-size: 0.8em;
-  border: none;
-  color: #eee; }
-#content article h2.linked-post a:hover {
   color: #333; }
+#content article h2.linked-post a:hover {
+  color: #000; }
 
 /* Responsive All Up In Here */
 /* LOCKED MEDIA QUERIES FOR IPHONE & IPAD SUPPORT */
