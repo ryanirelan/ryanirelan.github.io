@@ -80,7 +80,7 @@ footer {
   margin-bottom: 2.308em;
   width: 50%;
   margin-left: 25%;
-  font-size: 0.618em;
+  font-size: 1em;
   font-family: 'Tungsten A', 'Tungsten B'; 
   font-weight: 400; 
   font-style: normal;
@@ -107,7 +107,15 @@ a:hover {
   -o-transition: all .3s ease;
   transition: all .3s ease; }
 
-h1, h1 a {
+#page {
+  width: 34.232em;
+  margin: 2% auto; }
+
+.website-name a {
+  color:#000;
+}
+
+p.website-name, p.website-name a {
   font-size: 145px;
   /* scale origin */
   text-transform: uppercase;
@@ -120,12 +128,8 @@ h1, h1 a {
   padding: 0;
   text-align: center; }
 
-h1 a:hover {
+p.website-name a:hover {
   color: #666; }
-
-#page {
-  width: 34.232em;
-  margin: 2% auto; }
 
 /*a.arrow-link {
 	font-size:125%;
@@ -137,11 +141,20 @@ h1 a:hover {
 #content article {
   margin-bottom: 50px; }
 
-#content article h2 {
-  font-size: 2.308em;
+#content article h1 {
+  font-size: 1.618em;
   margin: 0;
-  font-weight: 500;
-  text-align: center; }
+  font-weight: 600;
+ }
+
+#content article h1 a {
+  color: #111; }
+
+  #content article h2 {
+  font-size: 1.618em;
+  margin: 0;
+  font-weight: 600;
+}
 
 #content article h2 a {
   color: #111; }
@@ -150,7 +163,6 @@ h1 a:hover {
   font-size: 1.426em;
   margin: 1.426em 0 0 0;
   font-weight: 300;
-  text-align: center;
   font-style: italic; }
 
 #content article h4 {
@@ -178,7 +190,7 @@ h1 a:hover {
   margin-bottom: 0.882em; }
 
 #content article p.published-on {
-  font-size: .7em;
+  font-size: .618em;
   color: #333; }
 
 #content img, embed, object, video {
@@ -199,7 +211,7 @@ h1 a:hover {
 }
 
 #content article .footnotes {
-  font-size: 80%;
+  font-size: 0.618em;
   border-top: 1px solid #eee;
 }
 
