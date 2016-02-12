@@ -304,26 +304,26 @@ ul#archive li em {
 /* Responsive All Up In Here */
 /* LOCKED MEDIA QUERIES FOR IPHONE & IPAD SUPPORT */
 @media screen and (max-width: 1600px) {
-  h1, h1 a {
+  p.website-name, .website-name a {
     font-size: 145px; }
 
   #page {
     /*width: 25.591em;*/
     margin: 3% auto; } }
 @media screen and (max-width: 1024px) {
-  h1, h1 a {
+  p.website-name, p.website-name a {
     font-size: 145px; }
 
   #page {
     margin: 5% auto; } }
 @media screen and (max-width: 940px) {
-  h1, h1 a {
+  p.website-name, p.website-name a {
     font-size: 145px; }
 
   #page {
     margin: 5% auto; } }
 @media screen and (max-width: 768px) {
-  h1, h1 a {
+  p.website-name, p.website-name a {
     font-size: 145px; }
 
   header p {
@@ -337,16 +337,16 @@ ul#archive li em {
   body#gameday {
     background-size: 50%; } }
 @media screen and (max-width: 660px) {
-  h1, h1 a {
+  p.website-name, p.website-name a {
     font-size: 145px; } }
 @media screen and (max-width: 563px) {
-  h1, h1 a {
+  p.website-name, p.website-name a {
     font-size: 101.659px; } }
 @media screen and (max-width: 500px) {
-  h1, h1 a {
+  p.website-name, p.website-name a {
     font-size: 205%; } }
 @media screen and (max-width: 480px) {
-  h1, h1 a {
+  p.website-name, p.website-name a {
     font-size: 203%; }
 
   header p {
