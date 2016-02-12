@@ -281,11 +281,10 @@ ul#archive li em {
   font-size: 1em;
   text-align: left; }
 #content article h2.linked-post a {
-  border-bottom: 1px solid;
-  color: #aaa; }
+  color: #333; }
 #content article h2.linked-post a.linked-permalink {
   font-size: 0.8em;
-  color: #333; }
+  color: #aaa; }
 #content article h2.linked-post a:hover {
   color: #000; }
 
