@@ -278,6 +278,7 @@ ul#archive li em {
   margin-bottom: 15px; }
 
 #content article h2.linked-post {
+  font-weight:600;
   font-size: 1em;
   text-align: left; }
 #content article h2.linked-post a {
