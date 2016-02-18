@@ -2,7 +2,6 @@
 title: Web Performance Testing & Git Internals
 layout: post
 date: 2016-02-18 12:54:11
-external-url: https://mijingo.com/learn
 ---
 
 This month I've released two new courses over at my day job. :) 
