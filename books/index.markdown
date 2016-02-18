@@ -13,11 +13,13 @@ For years afterward my stomach would sink when I opened a book to read it. I'd f
 
 It took a long time to conquer and sequester that feeling. Now, more than 10 years after finishing graduate school, I am fully enjoying reading again. And just not pleasure reads, but hard stuff, too.
 
-My goal is 2016 is to read 100 books. I'm not focused on the number but need to have it in order to stay motivated. Let's be honest: it's easier to be busy with an electronic device than it is to quietly sit and read a good book.
+My goal is 2016 is to read 100 books (I'm a little behind as I write this). 
+
+I'm not entirely fixated on the number but need to have it in order to stay motivated. Let's be honest: it's easier to be busy with an electronic device than it is to quietly sit and read a good book.
 
 This page is a list of the books I've read and links to reviews, if I've written one for the book.
 
-## 2016
+### 2016
 
 * Your Money or Your Life
 * Traction
