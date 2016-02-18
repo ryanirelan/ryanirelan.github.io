@@ -7,7 +7,7 @@ external-url: https://mijingo.com/learn
 
 This month I've released two new courses over at my day job. :) 
 
-#### Web Performance Testing
+### Web Performance Testing
 
 > The first step to making sure the web sites we build are not a burden on our visitors or customers is understanding how big the pages are while we are developing them. If we can become more aware of how our feature, design, and development decisions impact the performance of the website, we can address problems before they impact the site’s user experience.
 
@@ -17,7 +17,7 @@ It's about 2 hours of solid information on how to get started with web performan
 
 [See course page for all the details](https://mijingo.com/products/screencasts/web-performance-testing/).
 
-#### Git: Under the Hood
+### Git: Under the Hood
 
 Last Spring I did a half day session at the [Peers Conference](http://peersconf.com) in Philadelphia on the internal of Git. A couple months later I turned that into a one-time live online seminar. 
 
