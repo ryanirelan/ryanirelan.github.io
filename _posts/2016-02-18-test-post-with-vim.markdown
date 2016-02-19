@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Post with vim"
+title: "Posting to Jekyll with vim-jekyll"
 date: "2016-02-18 20:36:05 -0600"
 external-url: https://github.com/parkr/vim-jekyll
 ---
