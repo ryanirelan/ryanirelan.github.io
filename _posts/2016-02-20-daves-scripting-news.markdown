@@ -15,4 +15,4 @@ Oh, and he also helped invent podcasting. You know how podcast episodes are deli
 
 Why am I writing this? We need to stay connected to people who help (Dave continues to help, so this isn't a salute to an old timer) create the space in which we work and make our livelihoods. It's also been fun to observe him working in the Node.js and server-side JavaScript space, too.
 
-You should [read his blog](http://scripting.com) if you don't already. Subscribe to the RSS feed (the best way, of course) or pop in now and then to read his on politics, technology, and anything else that might be on his mind. He's been a must-read for me for years. 
+You should [read his blog](http://scripting.com) if you don't already. Subscribe to the RSS feed (the best way, of course) or pop in now and then to read his thoughts on politics, technology, and anything else that might be on his mind. He's been a must-read for me for years. 
