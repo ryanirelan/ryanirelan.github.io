@@ -11,4 +11,4 @@ From the Comma Queen at the New Yorker:
 > 
 > It is also the improbable subject of a passionate debate among scholars, journalists, and copy editors. Can’t we all just get along?
 
-Me? I use the serial comma because it creates clarity. Everything from the Comman Queen is fantastic. I have [her book](http://www.worldcat.org/title/between-you-me-confessions-of-a-comma-queen/oclc/897468521&referer=brief_results) on hold at the library.
+Me? I use the serial comma because it creates clarity. Everything from the Comma Queen is worth your time. I have [her book](http://www.worldcat.org/title/between-you-me-confessions-of-a-comma-queen/oclc/897468521&referer=brief_results) on hold at the library.
