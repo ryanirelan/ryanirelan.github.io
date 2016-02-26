@@ -1,0 +1,13 @@
+---
+layout: post
+title: "The NERD Tree"
+date: "2016-02-26 08:50:59 -0600"
+external-url: https://github.com/scrooloose/nerdtree
+---
+
+I've been using The NERD tree as a file explorer for vim. It was a bit quirky at first but that was me not knowing how to use it.
+
+I have trained myself to be fairly fast using it but only because I've tried to be disciplined about looking up commands if I didn't know them. It takes more willpower than you think to break old habits (Sublime Text shortcuts, previously TextMate shortcuts) and groove in new ones.
+
+All in all, my vim setup (which is one of my experiements at this point) is decent. I like using it but it still feels like a lot of work to do basic daily functions.
+
