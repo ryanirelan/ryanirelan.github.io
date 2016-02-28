@@ -37,3 +37,5 @@ Most of the chapters are short and fast to read. You could read them out of orde
 I read the 200 or so pages very quickly. The prose are simple and approachable. Scott cites research papers and other sources of the information he uses to make his arguments. Even if you find the book a lighter read, you can very easily trawl the footnotes for deeper learning.
 
 I recommend the book as a way to explore how someone approaches a life of maximizing happiness.
+
+_[Read more on books I've read](/books)_.
