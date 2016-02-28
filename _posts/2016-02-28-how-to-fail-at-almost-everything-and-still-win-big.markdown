@@ -3,9 +3,6 @@ layout: post
 title: "How to Fail at Everything and Still Win Big - Scott Adams"
 ---
 
-* [Buy on Amazon](http://www.amazon.com/gp/product/1591847745/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847745&linkCode=as2&tag=ryaire-20&linkId=MM23UQ3M6IDZZWUW)
-* [Check out from Public Library](http://www.worldcat.org/title/how-to-fail-at-almost-everything-and-still-win-big-kind-of-the-story-of-my-life/oclc/842209207&referer=brief_results)
-
 The subtitle of this book is “Kind of the Story of My Life” and that should be a indicator of the content. Scott Adams takes his life experience and how he was able to overcome failure and weaves it into a narrative that gives you steps and practical advice for improving your own life.
 
 If you’ve read any of Scott’s blog posts over the years you will recognize the style. The book reads like a collection of his blog posts (but I don't think it is). Scott is introspective and analytical about his experience in the world; he’s seeks how his actions affect him (and others) and how he can change things for maximum happiness.
@@ -36,6 +33,7 @@ Most of the chapters are short and fast to read. You could read them out of orde
 
 I read the 200 or so pages very quickly. The prose are simple and approachable. Scott cites research papers and other sources of the information he uses to make his arguments. Even if you find the book a lighter read, you can very easily trawl the footnotes for deeper learning.
 
-I recommend the book as a way to explore how someone approaches a life of maximizing happiness.
+* [Buy on Amazon](http://www.amazon.com/gp/product/1591847745/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847745&linkCode=as2&tag=ryaire-20&linkId=MM23UQ3M6IDZZWUW)
+* [Check out from Public Library](http://www.worldcat.org/title/how-to-fail-at-almost-everything-and-still-win-big-kind-of-the-story-of-my-life/oclc/842209207&referer=brief_results)
 
 _[Read more on books I've read](/books)_.
