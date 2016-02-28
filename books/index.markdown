@@ -24,6 +24,7 @@ This page is a list of the books I've read and links to reviews, if I've written
 * Your Money or Your Life
 * Traction
 * The Last Meditations
-* How to Fail at Almost Everything and Still Win Big
+* [How to Fail at Almost Everything and Still Win Big](http://ryanirelan.com/2016/02/28/how-to-fail-at-almost-everything-and-still-win-big.html)
 * How Adam Smith Can Change Your Life
+* Bird by Bird
 
