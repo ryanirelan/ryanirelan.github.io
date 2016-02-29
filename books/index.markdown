@@ -25,6 +25,6 @@ This page is a list of the books I've read and links to reviews, if I've written
 * Traction
 * The Last Meditations
 * [How to Fail at Almost Everything and Still Win Big](http://ryanirelan.com/2016/02/28/how-to-fail-at-almost-everything-and-still-win-big.html)
-* How Adam Smith Can Change Your Life
+* [How Adam Smith Can Change Your Life](http://ryanirelan.com/2016/02/29/how-adam-smith-can-change-your-life-russ-roberts.html)
 * Bird by Bird
 

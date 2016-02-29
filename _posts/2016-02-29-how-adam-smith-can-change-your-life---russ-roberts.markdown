@@ -4,7 +4,7 @@ layout: post
 date: 2016-02-29 09:02:47
 ---
 
-This book was a challenge for me. I am not well-versed in economics nor many specifics of [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) other than that he wrote a book of which I've heard: _The Wealth of Nations_. However, I was intriuged by the idea of taking Adam Smith's secondary work--_[The Theory of Moral Sentiments](http://econlib.org/library/Smith/smMS.html)_ published in 1759--and reading through a lens of modern life and living.
+I am not well-versed in economics nor many specifics of [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) other than that he wrote a book of which I've heard: _The Wealth of Nations_. However, I was intriuged by the idea of taking Adam Smith's secondary work--_[The Theory of Moral Sentiments](http://econlib.org/library/Smith/smMS.html)_ published in 1759--and reading through a lens of modern life and living.
 
 But I'll be honest: this book was a slog for me after the first one third or so. I don't fault the author for this. I think the material lends itself to explanations that are drawn out and over-explanatory.
 
