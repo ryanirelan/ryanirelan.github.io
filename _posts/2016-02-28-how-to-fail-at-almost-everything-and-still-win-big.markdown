@@ -33,7 +33,7 @@ The biggest takeaway from this book--and it could've been a book of its own--is 
 
 A goal is to lose 15 lbs by April 1st. You do whatever you can to meet it but you're probably racing toward that goal with blinders on. 
 
-A system is a regular, maintinable routine of activities that make that happen. Instead of starving yourself for a month, which isn't maintinable at all over an extended period, you set up a system of meals that are good for you. You build exercise into your day (like changing to a bike commute instead of loafing in your car the 4 miles).
+A system is a regular, maintinable routine of activities that make that happen not just once but ongoing. You are not "losing 15 lbs," you are living a healthy life that keep you at a healthy weight. Instead of starving yourself for a month, which isn't maintinable at all over an extended period, you set up a system of meals that are good for you. You build exercise into your day (like changing to a bike commute instead of loafing in your car the 4 miles).
 
 Most of the chapters are short and fast to read. You could read them out of order but he does reference previous material as the books moves on toward the end.
 
