@@ -28,7 +28,7 @@ Economics isn't just about money.
 
 > Economics helps you understand that money isn't the only thing that matters in life. Economics teaches you that making a choice means giving up something. And economics can help you appreciate complexity and how seemingly unrelated actions and people can become entangled. These insights and others are sprinkled throughout _The Theory of Moral Sentiments_.
 
-And then we're off, as Roberts launches deep into the nine ways you can improve your life through Adam Smith. Russ Roberts successfully dusts off a centuries old work and applies to the modern day.
+And then we're off, as Roberts launches deep into the nine ways you can improve your life through Adam Smith. Russ Roberts successfully dusts off a centuries old work and applies it to the modern day.
 
 * [Buy on Amazon](http://amzn.to/1Tgw1BD) (affilate link)
 * [Check out from Public Library](http://www.worldcat.org/title/how-adam-smith-can-change-your-life-an-unexpected-guide-to-human-nature-and-happiness/oclc/881681030&referer=brief_results)
