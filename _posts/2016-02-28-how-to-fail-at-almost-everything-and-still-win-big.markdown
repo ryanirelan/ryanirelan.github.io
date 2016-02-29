@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Fail at Everything and Still Win Big - Scott Adams"
+title: "How to Fail at Almost Everything and Still Win Big - Scott Adams"
 ---
 
 The subtitle of this book is “Kind of the Story of My Life” and that summarizes the content. Scott Adams takes his life experience, specifically how he was able to overcome failure in life and career, and weaves it into a narrative that gives you steps and practical advice for improving your own life.
