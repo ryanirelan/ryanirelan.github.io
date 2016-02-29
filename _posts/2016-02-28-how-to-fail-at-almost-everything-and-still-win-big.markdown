@@ -27,7 +27,13 @@ One of my favorite things about the book is that he advocates for broad, ongoing
 
 The simple example Adams gives is if you wanted to understand what a zebra is. It's easier to describe and explain what a zebra is if you already know a horse. Oh, it's a horse but with stripes. Easy enough. 
 
-By having knowledge of one thing you create hooks, as he calls them, for understanding other things. 
+By having knowledge of one thing you create hooks, as he calls them, for understanding other things.
+
+The biggest takeaway from this book--and it could've been a book of its own--is the idea that we should be using systems not goals to be sucessful (as we define it for ourselves) and happy in life. 
+
+A goal is to lose 15 lbs by April 1st. You do whatever you can to meet it but you're probably racing toward that goal with blinders on. 
+
+A system is a regular, maintinable routine of activities that make that happen. Instead of starving yourself for a month, which isn't maintinable at all over an extended period, you set up a system of meals that are good for you. You build exercise into your day (like changing to a bike commute instead of loafing in your car the 4 miles).
 
 Most of the chapters are short and fast to read. You could read them out of order but he does reference previous material as the books moves on toward the end.
 
