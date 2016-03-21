@@ -4,7 +4,7 @@ layout: post
 date: 2016-03-21 09:49:42
 ---
 
-I spend more time now refining the things I already know instead of learning just learning something new. Sure, I still learn new stuff (I do teach for living after all) but I’m also constantly adjusting my dials for better reception of the world around me.
+I spend more time now refining the things I already know instead of just learning something new. Sure, I still learn new stuff (I do teach for living after all) but I’m also constantly adjusting my dials for better reception of the world around me.
 
 This could be engaging more deeply in relationships, understanding my own cycles of energy and emotions and adjusting my schedule around those to make life a bit more pleasant and fruitful, or being more empathetic and in-tune with how my work affects others. As a professional teacher and riffraff academic,  this is the most important thing I do.
 
