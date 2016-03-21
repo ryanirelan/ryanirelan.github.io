@@ -13,7 +13,7 @@ For years afterward my stomach would sink when I opened a book to read it. I'd f
 
 It took a long time to conquer and sequester that feeling. Now, more than 10 years after finishing graduate school, I am fully enjoying reading again. And just not pleasure reads, but harder stuff, too.
 
-My goal in 2016 is to read 100 books (I'm a little behind as I write this). 
+My goal in 2016 is to read 100 books (I'm a _very_ behind on this goal but still having fun reading).
 
 I'm not entirely fixated on the number but need to have the goal--and system--in order to stay motivated. Let's be honest: it's easier to be busy with an electronic device than it is to quietly sit and read a good book.
 
@@ -28,3 +28,4 @@ This page is a list of the books I've read and links to reviews, if I've written
 * [How Adam Smith Can Change Your Life](http://ryanirelan.com/2016/02/29/how-adam-smith-can-change-your-life-russ-roberts.html)
 * Bird by Bird
 * [Design for Real Life](http://ryanirelan.com/2016/03/21/design-for-real-life-eric-meyer-sara-wachter-boettcher.html)
+* How to Read a Book
