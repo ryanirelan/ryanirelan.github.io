@@ -29,3 +29,5 @@ _Design for Real Life_ book illuminated the blind spots in my vision of my work.
 Don’t let the slim stature of the book fool you: it is a big and important work. We should all feel obligated to _at least_ read _Design for Real Life_ but hopefully also build the concepts and methods in the book into our future work.
 
 * [Buy the book at A Book Apart](https://abookapart.com/products/design-for-real-life)
+
+[Read more on books I've read](/books)
