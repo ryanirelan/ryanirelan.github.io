@@ -27,3 +27,5 @@ The book is also not advocating that we try to build something that won’t offe
 _Design for Real Life_ book illuminated the blind spots in my vision of my work. It teaches a very important refinement and improvement to the work we do designing and building for the web.
 
 Don’t let the slim stature of the book fool you: it is a big and important work. We should all feel obligated to _at least_ read _Design for Real Life_ but hopefully also build the concepts and methods in the book into our future work.
+
+* [Buy the book at A Book Apart](https://abookapart.com/products/design-for-real-life)
