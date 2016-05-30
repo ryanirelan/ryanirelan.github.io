@@ -1,5 +1,5 @@
 ---
-title: Ben Brooks' Travelling Light Series
+title: Ben Brooks' Traveling Light Series
 layout: post
 date: 2016-05-30 09:15:43
 external-url: https://brooksreview.net/tag/travel-light/
