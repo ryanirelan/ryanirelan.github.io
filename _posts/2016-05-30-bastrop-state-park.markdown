@@ -3,7 +3,7 @@ title: Bastrop State Park
 layout: post
 ---
 
-<img src="images/bastrop-state-park.jpg" alt="Bastrop State Park" />
+<img src="/images/bastrop-state-park.jpg" alt="Bastrop State Park" />
 
 Last weekend we did a quick one night camping trip at Bastrop State Park. We were here last Septemeber for the Burning Pine 10k race I ran. Even though the hilly park road had me finding a little religion around mile 5, I really enjoyed the park and wanted to return for a more relaxed adventure.
 
