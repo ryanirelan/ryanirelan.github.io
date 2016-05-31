@@ -6,7 +6,7 @@ date: 2016-03-21 09:49:42
 
 I spend more time now refining the things I already know instead of just learning something new. Sure, I still learn new stuff (I do teach for living after all) but I’m also constantly adjusting my dials for better reception of the world around me.
 
-This could be engaging more deeply in relationships, understanding my own cycles of energy and emotions and adjusting my schedule around those to make life a bit more pleasant and fruitful, or being more empathetic and in-tune with how my work affects others. As a professional teacher and riffraff academic,  this is the most important thing I do.
+This could be engaging more deeply in relationships, understanding my own cycles of energy and emotions and adjusting my schedule around those to make life a bit more pleasant and fruitful, or being more empathetic and in-tune with how my work affects others. As a professional teacher and riffraff academic, this is the most important thing I do.
 
 Eric Meyer and Sara Wachter-Boettcher have a similar mission for us and the websites we design and build. They pull from personal experiences of bumping up against the edges of a design or content decision and together wrote _Design for Real Life_, a 140-page manifesto on creating websites that feel a little more human when humans need it most. 
 
