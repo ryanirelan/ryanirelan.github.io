@@ -1,7 +1,7 @@
 ---
 title: The Worst Ants in the World
 layout: post
-date: 
+date: 2016-08-12 22:46:35
 external-url: http://arstechnica.com/science/2016/08/meet-the-worst-ants-in-the-world/
 ---
 
