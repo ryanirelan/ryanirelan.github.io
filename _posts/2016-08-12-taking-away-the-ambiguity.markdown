@@ -9,4 +9,4 @@ Shawn Blanc on writing his Focus Course using good planning and index cards:
 
 > Lastly, the constraints of the notecards themselves — a single topic with a pre-defined outline — took away much of the ambiguity involved in the writing process. All I had left to do was expound on the ideas I had already written down.
 
-Index cards, solid outline, or mindmap. Don't write without plan!
+Index cards, solid outline, or mindmap. Don't write without a plan!
