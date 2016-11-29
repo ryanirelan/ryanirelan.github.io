@@ -16,5 +16,5 @@ In DEVONthink I get a paginted and OCR'd PDF with simple formatting. Any links a
 
 ![](http://mijingo.d.pr/YeMv/3huXgYWM+)
 
-My main use case for this way of saving articles is when doing reesarch and planning for a new course. I'll save articles I find and then store them in DEVONthink for later reference. I've tried several ways to saving web articles in DEVONthink and this is the best I've found.
+My main use case for this method is when doing reesarch and planning for a new course. I'll save articles I find and then store them in DEVONthink for later reference. I've tried several ways to save web articles in DEVONthink and this is the best I've found.
 
