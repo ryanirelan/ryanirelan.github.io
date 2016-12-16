@@ -4,7 +4,7 @@
   <title><![CDATA[Ryan Irelan]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2016-11-28T19:55:53-06:00</updated>
+  <updated>2016-12-16T10:43:42-06:00</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Minimalism Documentary]]></title>
+   
+   <link href="http://minimalismfilm.com/"/>
+   
+    <updated>2016-12-16T04:33:41-06:00</updated>
+    <id>/2016/12/16/minimalism-documentary</id>
+    <content type="html"><![CDATA[<p>A documentary (just out on Netflix yesterday) about living with less and in smaller places.</p>
+
+<iframe src="https://player.vimeo.com/video/153518223" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<p><a href="https://vimeo.com/153518223">Minimalism: A Documentary About the Important Things</a> from <a href="https://vimeo.com/theminimalists">The Minimalists</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<p>My immediate thoughts on it after watching it last night:</p>
+
+<ul>
+  <li>Good message</li>
+  <li>Too narrow of a slice of society. Every person in the film is similar. I’d bet there are non-San Francisco -Portland, etc. people who are interested in minimalism.</li>
+  <li>Felt like it was speaking to its existing tribe (validation!) instead of reaching out. Progessive issues like this are doomed if they’re always looking inward.</li>
+  <li>It focused so much on tiny houses but that’s a <em>tiny part</em> of minimalism. Tiny houses are hard to identify with (I’d never live in one). There are other parts of minimalism that <em>are</em> easier to identify with, like tying it close to finances, using your money wisely (as if it was 1:1 with emotional energy), and knowing that you don’t need <em>more</em> to be happy.</li>
+</ul>
+
+<p>All in all, a good film but it misses on many levels. It was done in a way to not be broadly appealing to those who aren’t already interested. The real potential audience for this are people who are looking to shed over-consumption. This film makes minimalism look kind of like a freak show that only consists of the eccentric lot.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Save Articles to DEVONthink Like Instapaper]]></title>
@@ -32,7 +57,7 @@
 
 <p><img src="http://mijingo.d.pr/YeMv/3huXgYWM+" alt="" /></p>
 
-<p>My main use case for this way of saving articles is when doing reesarch and planning for a new course. I’ll save articles I find and then store them in DEVONthink for later reference. I’ve tried several ways to saving web articles in DEVONthink and this is the best I’ve found.</p>
+<p>My main use case for this method is when doing reesarch and planning for a new course. I’ll save articles I find and then store them in DEVONthink for later reference. I’ve tried several ways to save web articles in DEVONthink and this is the best I’ve found.</p>
 
 ]]></content>
   </entry>
@@ -317,17 +342,6 @@
 <p>Last year’s flooding (which also hit Austin metro area) drained the small park lake after it overflowed and breached a dam/roadway and emptied into the surrounding area, destroying a park road.</p>
 
 <p>Bastrop State Park is very nicely outfitted park for tent and RV camping. Nice sites, facilities, and a YMCA-run swimming pool. We’ll definitely return.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Back to Running]]></title>
-   
-   <link href="http://ryanirelan.com/2016/05/04/back-to-running.html"/>
-   
-    <updated>2016-05-04T07:21:32-05:00</updated>
-    <id>/2016/05/04/back-to-running</id>
-    <content type="html"><![CDATA[<p>Did my first run this morning since my stress fracture. Almost exactly 3 months since my last run. Feels like, too.</p>
 ]]></content>
   </entry>
   

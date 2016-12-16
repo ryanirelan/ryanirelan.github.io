@@ -4,13 +4,38 @@
  <title>Ryan Irelan</title>
  <link href="http://ryanirelan/feedburner.xml" rel="self"/>
  <link href="http://ryanirelan.com/"/>
- <updated>2016-11-28T19:55:53-06:00</updated>
+ <updated>2016-12-16T10:43:42-06:00</updated>
  <id>http://ryanirelan.com/</id>
  <author>
    <name>Ryan Irelan</name>
    <email>ryan@irelan.net</email>
  </author>
 
+ 
+ <entry>
+   <title>Minimalism Documentary</title>
+   
+   <link href="http://minimalismfilm.com/"/>
+   
+   <updated>2016-12-16T04:33:41-06:00</updated>
+   <id>http://ryanirelan.com/2016/12/16/minimalism-documentary</id>
+   <content type="html">&lt;p&gt;A documentary (just out on Netflix yesterday) about living with less and in smaller places.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/153518223&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/153518223&quot;&gt;Minimalism: A Documentary About the Important Things&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/theminimalists&quot;&gt;The Minimalists&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My immediate thoughts on it after watching it last night:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Good message&lt;/li&gt;
+  &lt;li&gt;Too narrow of a slice of society. Every person in the film is similar. I’d bet there are non-San Francisco -Portland, etc. people who are interested in minimalism.&lt;/li&gt;
+  &lt;li&gt;Felt like it was speaking to its existing tribe (validation!) instead of reaching out. Progessive issues like this are doomed if they’re always looking inward.&lt;/li&gt;
+  &lt;li&gt;It focused so much on tiny houses but that’s a &lt;em&gt;tiny part&lt;/em&gt; of minimalism. Tiny houses are hard to identify with (I’d never live in one). There are other parts of minimalism that &lt;em&gt;are&lt;/em&gt; easier to identify with, like tying it close to finances, using your money wisely (as if it was 1:1 with emotional energy), and knowing that you don’t need &lt;em&gt;more&lt;/em&gt; to be happy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All in all, a good film but it misses on many levels. It was done in a way to not be broadly appealing to those who aren’t already interested. The real potential audience for this are people who are looking to shed over-consumption. This film makes minimalism look kind of like a freak show that only consists of the eccentric lot.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Save Articles to DEVONthink Like Instapaper</title>
@@ -31,7 +56,7 @@
 
 &lt;p&gt;&lt;img src=&quot;http://mijingo.d.pr/YeMv/3huXgYWM+&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;My main use case for this way of saving articles is when doing reesarch and planning for a new course. I’ll save articles I find and then store them in DEVONthink for later reference. I’ve tried several ways to saving web articles in DEVONthink and this is the best I’ve found.&lt;/p&gt;
+&lt;p&gt;My main use case for this method is when doing reesarch and planning for a new course. I’ll save articles I find and then store them in DEVONthink for later reference. I’ve tried several ways to save web articles in DEVONthink and this is the best I’ve found.&lt;/p&gt;
 
 </content>
  </entry>
