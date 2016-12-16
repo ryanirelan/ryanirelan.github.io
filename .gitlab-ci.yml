@@ -3,7 +3,7 @@ variables:
 deploy:
   image: mijingo/jekyll-aws:latest
   script:
-  - gem install pkg-config -v "~> 1.1.7"
+  - gem install nokogiri -- --use-system-libraries --with-xml2-include=/usr/include/libxml2 --with-xml2-lib=/usr/lib/
   - gem install bundler
   - bundle config build.nokogiri --use-system-libraries
   - bundle config --global silence_root_warning 1
