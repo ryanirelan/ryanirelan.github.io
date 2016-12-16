@@ -8,7 +8,6 @@ external-url: http://minimalismfilm.com/
 A documentary (just out on Netflix yesterday) about living with less and in smaller places. 
 
 <iframe src="https://player.vimeo.com/video/153518223" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/153518223">Minimalism: A Documentary About the Important Things</a> from <a href="https://vimeo.com/theminimalists">The Minimalists</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 My immediate thoughts on it after watching it last night: 
 
