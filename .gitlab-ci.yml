@@ -3,5 +3,7 @@ variables:
 deploy:
   image: mijingo/jekyll-aws:latest
   script:
+  - gem install bundler
+  - bundle install
   - jekyll build
   - aws s3 cp ./_site s3://$S3_BUCKET_NAME/ --recursive --exclude "*" --include "*.html"
