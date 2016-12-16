@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<meta charset="utf-8">
+	<!-- Github -->
+	<title> A New Mijingo | Ryan Irelan</title>
+
+	<link rel="stylesheet" href="/stylesheets/screen.css">
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6455712/784906/css/fonts.css" />
+
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/jqwidont-compressed.js" type="text/javascript"></script>
+	<script src="/js/jquery.fitvids.js" type="text/javascript"></script>
+	<script src="/js/site.js" type="text/javascript" charset="utf-8"></script>
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-67821-8']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+	<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+      $("#content").fitVids({ customSelector: "iframe[src^='//fast.wistia.net']"});
+  });
+</script>
+</head>
+<body>
+	<div id="page">
+	<header>
+		<p class="website-name"><a href="/">Ryan Irelan</a></p>
+		<p>is building <a href="http://mijingo.com">Mijingo</a> and doing <a href="/consulting">limited consulting</a>.</p>
+	</header>
+
+	<section id="content">
+		    <article>
+      
+        <h1>A New Mijingo</h1>
+      
+      <p class="published-on"><time pubdate datetime="02-23-2015">February 23, 2015</time></p>  
+      <p>Over the last several months I’ve been working with <a href="http://www.andrewlohman.com">AJ Lohman</a> to modernize the <a href="https://mijingo.com">Mijingo website’s</a> design and code.</p>
+
+<p>Last weekend I deployed the new site to the production server. Here’s a video I made to cover what Mijingo is all about and highlight some features of the new site:</p>
+
+<iframe src="//fast.wistia.net/embed/iframe/zopphyp3au" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" oallowfullscreen="" msallowfullscreen="" width="900" height="506"></iframe>
+<script src="//fast.wistia.net/assets/external/E-v1.js" async=""></script>
+
+<p>First and foremost, AJ and I worked on modernizing the look of Mijingo. I didn’t want it to be too trendy (although the full bleed image is something I ended up asking for) and lose the ability to effectively server my customers.</p>
+
+<p>I had two specific (perhaps obvious) goals in mind:</p>
+
+<ul>
+  <li>make a better impression on new visitors when they came to check out the <a href="http://mijingo.com/products">course library at Mijingo</a> and</li>
+  <li>improve the experience for customers <em>after</em> they make a purchase.</li>
+</ul>
+
+<p>The previous site did the best it could but it was old. The design was outdated–hastily retrofitted to be responsive–and the code well beyond its prime.</p>
+
+<p>We settled on a simple look. The focus was on the new course covers that AJ created using the <a href="http://www.typography.com/fonts/whitney/overview/">Whitney typeface from Hoefler &amp; Co</a> and some custom shapes and color palate he worked up.</p>
+
+<p><img src="/img/mijingo-course-library.png" alt="Course Library on Mijingo" /></p>
+
+<p>You can see that on the <a href="https:/mijingo.com/products">Course Library</a> with its “cover mode” listing of the products. The courses are color coded based on track: Design is red, Development is green, and CMS/Publishing is a purple.</p>
+
+<p>The images are also large and beautiful. Why? Because we used <a href="https://mijingo.com/products/screencasts/svg-tutorial">SVG (Scalable Vector Graphics</a> to display all of the cover art. No large bitmap images to load and the covers look gorgeous on all displays: big, small, retina or standard.</p>
+
+<p>The second improvement–the logged-in experience for customers–was addressed by redoing how customers access their purchased courses.</p>
+
+<p>The previous version of Mijingo.com provided the customer with a simple table that listed all of their courses, the videos in those courses, and links to stream the video on the site or download it to their computer.</p>
+
+<p>Most customers chose the download option because the streaming option wasn’t ideal. For the new Mijingo site I really wanted to improve how customers can watch purchased courses right on the site.</p>
+
+<p>I turned the table listing of purchased courses into a simple, elegant grid of covers. There’s no copy or information about the course other than what is contained in the cover art. Why repeat what’s already there. Plus, the customer has already purchased the course so they’re probably familiar with what they have.</p>
+
+<p><img src="/img/mijingo-my-course-library.png" alt="Mijingo's My Course Library" /></p>
+
+<p>Clicking on a cover brings you to a one of the following pages, depending on the course:</p>
+
+<ul>
+  <li>A table listing the course videos, with links to stream or download</li>
+  <li>The course video, ready to play (if there was only one video in the course)</li>
+  <li>A table listing the courses and their videos (for a bundle of courses)</li>
+</ul>
+
+<p>This design is a first pass and definitely not final. I want to keep how customers access their courses as simple as possible so I started with an table approach that gets right to the point.</p>
+
+<p>One change from before is that I broke out the downloadable course materials into a sidebar so they’d sit alongside the videos, even while watching the course. The course materials should be accessible at all times while watching the course not just when you are choosing which video to stream or download.</p>
+
+<p><img src="/img/mijingo-svg-course-logged-in.png" alt="Watching the SVG Course" /></p>
+
+<p>These aren’t final implementations but small steps (or giant compared to the old site) in improving the experience of watching a course.</p>
+
+<p>I still have some more work to do–we have dozens of fixes and tweaks we’re tracking for the next deployment–including creating guide pages (pulling blog posts, tutorials, and videos into one page) for each major technology, and improving the performance of the site.</p>
+
+<p>I’m proud of the update and it’s a solid foundation on which I can build. I hope you’ll check it out and <a href="https://mijingo.com">learn something new with Mijingo</a>.</p>
+
+
+    </article>
+
+    <div class="extra">
+      <p>Want to share your thoughts? <a href="http://twitter.com/home?status=@ryanirelan" target="_blank">@Reply to me on Twitter</a>.</p>
+      <p>There&#8217;s more to <a href="/archive.html">read in the archive.</a></p>
+    </div>
+	</section>
+	<footer>
+	<p>&copy; 2016 Ryan Irelan</p>
+	</footer>
+	</div><!-- end #page -->
+</body>
+</html>

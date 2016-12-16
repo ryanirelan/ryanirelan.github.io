@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<meta charset="utf-8">
+	<!-- Github -->
+	<title> Merchant Account vs. Stripe | Ryan Irelan</title>
+
+	<link rel="stylesheet" href="/stylesheets/screen.css">
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6455712/784906/css/fonts.css" />
+
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/jqwidont-compressed.js" type="text/javascript"></script>
+	<script src="/js/jquery.fitvids.js" type="text/javascript"></script>
+	<script src="/js/site.js" type="text/javascript" charset="utf-8"></script>
+	<!--[if IE]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-67821-8']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+	<script>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+      $("#content").fitVids({ customSelector: "iframe[src^='//fast.wistia.net']"});
+  });
+</script>
+</head>
+<body>
+	<div id="page">
+	<header>
+		<p class="website-name"><a href="/">Ryan Irelan</a></p>
+		<p>is building <a href="http://mijingo.com">Mijingo</a> and doing <a href="/consulting">limited consulting</a>.</p>
+	</header>
+
+	<section id="content">
+		    <article>
+      
+        <h1>Merchant Account vs. Stripe</h1>
+      
+      <p class="published-on"><time pubdate datetime="07-17-2014">July 17, 2014</time></p>  
+      <p>The history of selling at <a href="http://mijingo.com">Mijingo</a> has been a progression toward bringing it all closer to home. I started selling training materials with a <a href="http://pragprog.com">publisher</a>. Two years later, I switched to a hosted selling platform that handled the cart, and all aspects of order management. Two more years later, I moved to running the store right inside of my website CMS, and created a merchant account with my bank using Authorize.net as my gateway.</p>
+
+<p>Over the course of six years I’ve removed some middle people and a lot of the cost. I gained more control over all aspects of selling (including checkout funnel tracking), money from sales hit my business account faster, and fees decreased significantly.</p>
+
+<p>But I keep thinking about <a href="http://stripe.com">Stripe</a>, its modern API, and its wide support among so many e-commerce tools. Authorize.net is an old hog of a service; their website and tools are sorely in need of an update (I dread having to log in and process a refund) and my bank’s tools for the merchant account are equally as awful (I once spent 2 months trying to get access to reporting).</p>
+
+<p>The web professional in me wants something better. Stripe is that something. But the small, indie business owner in me wants to keep everything as close to home as possible and with the fewest fees.</p>
+
+<p>So I did the simple math using some fake numbers to see if Stripe makes sense for me.</p>
+
+<h3 id="fees-and-costs">Fees and Costs</h3>
+
+<p><a href="https://stripe.com/us/pricing">Stripe costs 2.9% plus 30¢ per transaction</a>. If you do $10,000/month in net sales over 500 transactions (averaging $20 per transaction), Stripe takes $440 ($290 in commission + $150 in transaction fees). If you do the same revenue with fewer sales, Stripe will be even cheaper.</p>
+
+<p>In my situation (and I can only speak to my merchant account terms), the same transactions could cost me more depending on how my customers pay. American Express is an expensive payment method to process (which is why some retailers refuse to accept it). The Visa/Mastercard network charges you based on <em>attempted</em> transaction. If your site is used as the testing grounds for fraudsters then you could see your account dinged for every attemtped fraudulent charge. And then there’s the monthly fee.</p>
+
+<p>Additionally, about 40% of my customers pay through PayPal instead of with a credit card. This is almost always the case for non-US customers. <a href="https://www.paypal.com/webapps/mpp/merchant-fees">PayPal charges the same as Stripe</a> so I am saving on the expensive network charges.</p>
+
+<p>Like PayPal, Stripe hides the variable network credit card fees and simply charges you a flat per transaction fee. They probably do pay a variable per transaction fee to porcess your payments depending on the type of card used but you don’t see it. They can offset those costs by mixing larger transactions with smaller ones, and presumably by negotiating better rates directly with the card networks.</p>
+
+<p>My guess is that Stripe is using the 25¢ per transaction to cover the network fees and most of the 2.9% is for their operating expenses (staff, servers, security, PCI compliance). But I have no insight into their business so that’s just a <em>wild, simplistic, uninformed guess</em>.</p>
+
+<p>But because Stripe’s customer base varies in amount processed and number of transactions, they can set a flat rate and come out profitable after AMEX and Visa/MC are paid.</p>
+
+<p>As a small business owner who has spent thousands per year on fees, Stripe is appealing just for the fee arrangement.</p>
+
+<h3 id="access-to-the-cash">Access to the Cash</h3>
+
+<p>A major benefit of going with a merchant account is that you get faster access to your money. Revenue from my sales today will be in my business account tomorrow morning when I wake up. It doesn’t get much faster than that.</p>
+
+<p>When I used a hosted e-commerce platform a couple years back, they only paid twice per month. It was nice to have the lump payments come in but that can be tough if you’re in need of the cash. It also wasn’t so nice that a company is holding <em>and earning</em> off my money even though I’m paying a hefty fee to use the service!</p>
+
+<p>Stripe offers two day rolling deposits, which is nice and doable for cashflow. I could do just fine with that if the trade-off was reduced fees.</p>
+
+<h3 id="chargebacks">Chargebacks</h3>
+
+<p>Finally, there’s the chargeback situation. I haven’t had many chargebacks since setting off on my own with a merchant account. But there have been some and they are <em>expensive</em>. A payment gateway like Authorize.net will typically charge you a hefty fee per chargeback that can be more than the total transaction. That means I lose the sale <em>plus</em> the fee that was more than the sale. They subtract the fee and sale amount from your nightly settlement so you don’t have time to dispute it. They have direct access to your bank account (and automatically debit fees and chargebacks).</p>
+
+<p>Stripe doesn’t entirely protect you from chargebacks. They charge $15 per chargeback but refund that if the dispute is resolved in your favor. That’s more than half what other gateways charge.</p>
+
+<h3 id="so-am-i-going-to-switch">So am I going to switch?</h3>
+
+<p>The decision is centered around the variable fees for different card services, the high chargeback rate, and some future changes for how Mijingo charges for courses.</p>
+
+<p>Changing payment gateways is easy enough for me within my e-commerce tool, so it’s worth a month or two trial to see how the fees and experience shake out. I’ll keep you updated.</p>
+
+    </article>
+
+    <div class="extra">
+      <p>Want to share your thoughts? <a href="http://twitter.com/home?status=@ryanirelan" target="_blank">@Reply to me on Twitter</a>.</p>
+      <p>There&#8217;s more to <a href="/archive.html">read in the archive.</a></p>
+    </div>
+	</section>
+	<footer>
+	<p>&copy; 2016 Ryan Irelan</p>
+	</footer>
+	</div><!-- end #page -->
+</body>
+</html>

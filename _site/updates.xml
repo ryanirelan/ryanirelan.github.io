@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Ryan Irelan Updates</title>
+ <link href="http://ryanirelan/updates.xml" rel="self"/>
+ <link href="http://ryanirelan.com/"/>
+ <updated>2016-11-28T19:55:53-06:00</updated>
+ <id>http://ryanirelan.com/</id>
+ <author>
+   <name>Ryan Irelan</name>
+   <email>ryan@irelan.net</email>
+ </author>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/06/15/back-on-the-run-update.html"/>
+   
+   <updated>2016-06-15T07:40:00-05:00</updated>
+   <id>http://ryanirelan.com/2016/06/15/back-on-the-run-update</id>
+   <content type="html">&lt;p&gt;Finally back in a regular running routine. I’m still taking it easier than usual as a precaution. The first few runs were a struggle but I’ve found my pace again.  No races scheduled until September at the earliest so there’s no pressure.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/05/04/back-to-running.html"/>
+   
+   <updated>2016-05-04T07:21:32-05:00</updated>
+   <id>http://ryanirelan.com/2016/05/04/back-to-running</id>
+   <content type="html">&lt;p&gt;Did my first run this morning since my stress fracture. Almost exactly 3 months since my last run. Feels like, too.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/04/02/more-leg-progress.html"/>
+   
+   <updated>2016-04-02T08:07:00-05:00</updated>
+   <id>http://ryanirelan.com/2016/04/02/more-leg-progress</id>
+   <content type="html">&lt;p&gt;Slowly making more progress on the stress fracture in my right leg. Still no running but I’m working my way up to it, starting with 30 minutes on the stationary bike.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/03/05/still-no-running.html"/>
+   
+   <updated>2016-03-05T03:43:52-06:00</updated>
+   <id>http://ryanirelan.com/2016/03/05/still-no-running</id>
+   <content type="html">&lt;p&gt;The other night I dreamed about running. The run in my dream felt great almost like I was floating. Back in reality, I haven’t run in more than a month because of the stress fracture. I have at least another month ahead of me.&lt;/p&gt;
+
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/02/23/recording-a-new-lesson.html"/>
+   
+   <updated>2016-02-23T09:25:51-06:00</updated>
+   <id>http://ryanirelan.com/2016/02/23/recording-a-new-lesson</id>
+   <content type="html">&lt;p&gt;Recording a new lesson today on how to use sublime-jekyll in Sublime Text to publish right to my site (I’m using it to publish this!).&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/02/22/stumbled-into-the-week.html"/>
+   
+   <updated>2016-02-22T09:01:45-06:00</updated>
+   <id>http://ryanirelan.com/2016/02/22/stumbled-into-the-week</id>
+   <content type="html">&lt;p&gt;The week started off with a visit to a county gov’t office for a passport renewal followed by a series of missteps on my work the day. Definitely stumbled head first into the week.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/02/18/weening-off-the-boot.html"/>
+   
+   <updated>2016-02-18T14:15:38-06:00</updated>
+   <id>http://ryanirelan.com/2016/02/18/weening-off-the-boot</id>
+   <content type="html">&lt;p&gt;Some positive progress on my stress fracture. I am now able to slowly stop wearing the boot. A few hours here and there to make sure my leg feels good. Running again is still weeks away.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/02/12/site-typography-update.html"/>
+   
+   <updated>2016-02-12T18:32:00-06:00</updated>
+   <id>http://ryanirelan.com/2016/02/12/site-typography-update</id>
+   <content type="html">&lt;p&gt;Tweaked the site layout a bit to have higher contrast.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/02/11/better-office-for-startups.html"/>
+   
+   <updated>2016-02-11T11:21:00-06:00</updated>
+   <id>http://ryanirelan.com/2016/02/11/better-office-for-startups</id>
+   <content type="html">&lt;p&gt;Perhaps an uncomfortable, utilitarian office space that is focused only on doing the work that needs to get done is best?&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/01/16/cars-are-luxury.html"/>
+   
+   <updated>2016-01-16T13:39:32-06:00</updated>
+   <id>http://ryanirelan.com/2016/01/16/ cars-are-luxury</id>
+   <content type="html">&lt;p&gt;Commuting with a bike all week makes driving a car on the weekends feel like pure luxury.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/01/16/ios-blogging.html"/>
+   
+   <updated>2016-01-16T02:27:24-06:00</updated>
+   <id>http://ryanirelan.com/2016/01/16/ios-blogging</id>
+   <content type="html">&lt;p&gt;Just realized that all of my blogging, including longer form posts, has been done on iOS (old iPad 3 and iPhone 6 Plus) the last 6 months. It’s actually harder to blog from my laptop now.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2016/01/05/learning-from-previous-training-cycles.html"/>
+   
+   <updated>2016-01-05T09:55:46-06:00</updated>
+   <id>http://ryanirelan.com/2016/01/05/learning-from-previous-training-cycles</id>
+   <content type="html">&lt;p&gt;After almost a year of running and a full cycle of training for a half marathon, I can now compare my runs this cycle  to those in the last training cycle and realize just how fit and in shape I was at the peak of half marathon training.  It is motivation for this cycle.&lt;/p&gt;
+
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/12/24/back-to-running.html"/>
+   
+   <updated>2015-12-24T07:23:15-06:00</updated>
+   <id>http://ryanirelan.com/2015/12/24/back-to-running</id>
+   <content type="html">&lt;p&gt;This morning I did my first run since the half marathon    earlier this month. I took time off to heal a sore right Achilles and, apparently, eat too many Christmas cookies. The run was short and a little more difficult than it should’ve been.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/12/07/completed-first-half-marathon.html"/>
+   
+   <updated>2015-12-07T07:33:11-06:00</updated>
+   <id>http://ryanirelan.com/2015/12/07/completed-first-half-marathon</id>
+   <content type="html">&lt;p&gt;Yesterday I completed the San Antonio Rock n Roll Half Marathon.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/11/17/skipping-runs.html"/>
+   
+   <updated>2015-11-17T21:45:44-06:00</updated>
+   <id>http://ryanirelan.com/2015/11/17/skipping-runs</id>
+   <content type="html">&lt;p&gt;Skipping a couple runs this week to let a sore right leg heal. Being extra cautious leading up to the half marathon in a few weeks.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/09/12/finished-the-burning-pine-10k.html"/>
+   
+   <updated>2015-09-12T11:12:45-05:00</updated>
+   <id>http://ryanirelan.com/2015/09/12/finished-the-burning-pine-10k</id>
+   <content type="html">&lt;p&gt;Early this morning I ran the Burning Pine 10k in the Bastrop State Park. The weather was perfect (a little chilly!) and despite the hills I ran a PR for the 10k distance. Next up: Run for the Water 10 miler in November.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/08/30/life-of-ipad.html"/>
+   
+   <updated>2015-08-30T13:59:37-05:00</updated>
+   <id>http://ryanirelan.com/2015/08/30/life-of-ipad</id>
+   <content type="html">&lt;p&gt;I’ve had three iPads: original iPad, iPad 3 (first retina model), and iPad Mini first generation. The original iPad was stolen, and the other two are still in daily use. iPads last a long time as secondary devices.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/08/23/summer-training.html"/>
+   
+   <updated>2015-08-23T17:06:36-05:00</updated>
+   <id>http://ryanirelan.com/2015/08/23/summer-training</id>
+   <content type="html">&lt;p&gt;I had a hard time keeping my running training on schedule this summer. I had a foot issue, travel, and then just some days where I had other stuff planned. I’m back on schedule now and working toward being back in shape for the Burning Pines10k in a few weeks.&lt;/p&gt;
+
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/08/16/running-in-austin.html"/>
+   
+   <updated>2015-08-16T10:17:34-05:00</updated>
+   <id>http://ryanirelan.com/2015/08/16/running-in-austin</id>
+   <content type="html">&lt;p&gt;I started running in the winter: on a cold, rainy Austin day. My first months of running were glorious. Cold or cool weather, lots of energy. Running in the Austin summer (even early in the morning)? Not so glorious.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/08/01/ios-9-beta.html"/>
+   
+   <updated>2015-08-01T20:11:48-05:00</updated>
+   <id>http://ryanirelan.com/2015/08/01/ios-9-beta</id>
+   <content type="html">&lt;p&gt;iOS 9 beta ran hot on my phone at first but now it’s okay. Is it Spotlight indexing?&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/08/01/replaced-iphone-display.html"/>
+   
+   <updated>2015-08-01T19:16:39-05:00</updated>
+   <id>http://ryanirelan.com/2015/08/01/replaced-iphone-display</id>
+   <content type="html">&lt;p&gt;Using a kit from iFitXt.com I successfully replaced the display on my wife’s iPhone 5. It was a challenge because the glass was so cracked. But it worked.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/07/31/installing-el-capitan.html"/>
+   
+   <updated>2015-07-31T15:29:49-05:00</updated>
+   <id>http://ryanirelan.com/2015/07/31/installing-el-capitan</id>
+   <content type="html">&lt;p&gt;Taking the plunge on the third beta release of El Capitan after reviewing app support reports. Full backup secured (and unplugged) in case this goes all wrong.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/07/29/pay-yourself-entrepreneurs.html"/>
+   
+   <updated>2015-07-29T23:11:36-05:00</updated>
+   <id>http://ryanirelan.com/2015/07/29/pay-yourself-entrepreneurs</id>
+   <content type="html">&lt;p&gt;One important piece of advice I got while planning to go out on my own and run my own business was: Don’t neglect yourself. Pay yourself on time and regularly.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/07/29/quality-of-medium-articles.html"/>
+   
+   <updated>2015-07-29T19:59:56-05:00</updated>
+   <id>http://ryanirelan.com/2015/07/29/quality-of-medium-articles</id>
+   <content type="html">&lt;p&gt;The majority of the Medium articles recommended to me via their emails are pretty low quality. An email blast should be full of good stuff. It wasn’t always like that. My trust is eroding.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/07/28/between-world-and-me.html"/>
+   
+   <updated>2015-07-28T09:00:38-05:00</updated>
+   <id>http://ryanirelan.com/2015/07/28/between-world-and-me</id>
+   <content type="html">&lt;p&gt;Started reading &lt;em&gt;Between the World and Me&lt;/em&gt; by Ta-Nehisi Coates last night. The memoir starts fast and there’s no mistaking his viewpoint.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to reading more.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/07/26/eliminating-suffering.html"/>
+   
+   <updated>2015-07-26T15:38:38-05:00</updated>
+   <id>http://ryanirelan.com/2015/07/26/eliminating-suffering</id>
+   <content type="html">&lt;p&gt;Everything you do, own, and use should bring you joy. If not, get it out of your life.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/07/26/see-failure-18-years-later.html"/>
+   
+   <updated>2015-07-26T10:01:04-05:00</updated>
+   <id>http://ryanirelan.com/2015/07/26/see-failure-18-years-later</id>
+   <content type="html">&lt;p&gt;18 years later, I saw Failure for a second time. It was an amazing show.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <entry>
+   <title></title>
+   
+   <link href="http://ryanirelan.com/2015/07/24/mijingo-mistakes.html"/>
+   
+   <updated>2015-07-24T00:00:00-05:00</updated>
+   <id>http://ryanirelan.com/2015/07/24/mijingo-mistakes</id>
+   <content type="html">&lt;p&gt;One of my biggest mistakes in my first several months of running Mijingo full-time is that I was going too fast.&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</feed>

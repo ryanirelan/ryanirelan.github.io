@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Ryan Irelan]]></title>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2016-11-28T19:55:53-06:00</updated>
+  <id>/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Save Articles to DEVONthink Like Instapaper]]></title>
+   
+   <link href="http://ryanirelan.com/2016/11/28/save-articles-to-devonthink-like-instapaper.html"/>
+   
+    <updated>2016-11-28T13:42:45-06:00</updated>
+    <id>/2016/11/28/save-articles-to-devonthink-like-instapaper</id>
+    <content type="html"><![CDATA[<p>One of my favorite ways to save articles into DEVONthink is as OCR’d PDFs with simple formatting. That simple formatting? A la Instapaper.</p>
+
+<p>Instapaper has a very nice formatting style that makes web articles saved as PDFs readable and printable. I don’t save the article to read later, I save them to reference later. It’s important to me that they are self-contained (not links) and easy to read (not web archives).</p>
+
+<p>To achieve that I use the Chrome extension to capture a web page with DEVONthink. When capturing I use PDF (Paginated) as the format and check “Reformat with Instpaper.”</p>
+
+<p><img src="http://mijingo.d.pr/iwAt/4JJxUhDU+" alt="" /></p>
+
+<p>In DEVONthink I get a paginted and OCR’d PDF with simple formatting. Any links are kept intact (but moved to parathenses) and at the bottom and top are links back to the source article.</p>
+
+<p><img src="http://mijingo.d.pr/YeMv/3huXgYWM+" alt="" /></p>
+
+<p>My main use case for this way of saving articles is when doing reesarch and planning for a new course. I’ll save articles I find and then store them in DEVONthink for later reference. I’ve tried several ways to saving web articles in DEVONthink and this is the best I’ve found.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Minimalism Wallet]]></title>
+   
+   <link href="http://amzn.to/2gazHa1"/>
+   
+    <updated>2016-11-28T09:00:06-06:00</updated>
+    <id>/2016/11/28/minimalism-wallet</id>
+    <content type="html"><![CDATA[<p>For the last year I’ve been using the <a href="http://amzn.to/2gazHa1">Infinity Wallet</a><sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> as my every day wallet. I’m not a regular cash carrier so I use this wallet almost exclusviely for cards. It will stretch to fit as many cards as you need and then snap back when you downsize.</p>
+
+<p>The Infinity Wallet has two slots on each side to hold cards and a middle area (that is open on both ends) to easily slide in cash. The tension from the wallet and cards keeps whatever is in the middle space secure. I like to use this middle space for temoporary items, like parking tickets or hotel room key cards.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Affiliate link to Amazon.com <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[ATX Web Film Series]]></title>
+   
+   <link href="http://atxwebfilmseries.com"/>
+   
+    <updated>2016-09-01T09:29:38-05:00</updated>
+    <id>/2016/09/01/atx-web-film-series</id>
+    <content type="html"><![CDATA[<p>Mijingo and Environments for Humans are presenting the <a href="http://atxwebfilmseries.com">ATX Web Film Series</a>. The mission of this series is to screen relevant, insightful, and entertaining films for the Austin Tech community.</p>
+
+<p>The first installment of the film series will be a double feature and takes place at 6pm on October 3, 2016 at Alamo Drafthouse on S. Lamar.</p>
+
+<p>The two films are:</p>
+
+<ul>
+  <li><em>CODE: Deubugging the Gender Gap</em></li>
+  <li><em>What Comes Next is the Future</em></li>
+</ul>
+
+<p>For all of the details of the event, <a href="https://atxwebfilmseries.com">visit the website</a>.</p>
+
+<p>More on how this came about another time but, for now, I hope you’ll grab a ticket and I’ll see you there.</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Crossing the Chasm to Profitability]]></title>
+   
+   <link href="https://www.edsurge.com/news/2016-08-22-coding-startup-treehouse-trims-staff-to-cross-the-chasm-to-profitability"/>
+   
+    <updated>2016-08-23T10:58:50-05:00</updated>
+    <id>/2016/08/23/crossing-the-chasm-to-profitiability</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>“Every venture-funded company has to cross the chasm to profitability, and we decided the time was now,” Carson wrote in an email to EdSurge. After today’s layoff, he expects the company to be “very close to profitable [as year-over-year] revenue growth for the last six years has been climbing.”</p>
+</blockquote>
+
+<p>When you have to use terms like “crossing the chasm to profitability” things are most likely not good.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Back to School Sale at Mijingo]]></title>
+   
+   <link href="https://mijingo.com/products"/>
+   
+    <updated>2016-08-23T10:56:15-05:00</updated>
+    <id>/2016/08/23/back-to-school-sale-at-mijingo</id>
+    <content type="html"><![CDATA[<p>The annual Back to School sale is going on over at Mijingo. I’ve discounted a bunch of courses by 35% even my popular Git version control courses. Yes, that’s right.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[More on Constants While Indie]]></title>
+   
+   <link href="http://ryanirelan.com/2016/08/03/manton-reece-on-1-year-indie.html"/>
+   
+    <updated>2016-08-15T18:09:57-05:00</updated>
+    <id>/2016/08/15/more-on-constants-while-indie</id>
+    <content type="html"><![CDATA[<p>A couple weeks ago I linked to <a href="http://www.manton.org/2016/08/1-year-indie.html">Manton’s post about his first year indie</a> and I noted that establishing as many constants as possible helps ease stress. The example I gave was establishing a payroll to pay myself. Of course, I still have to generate the revenue to support the payroll but you’d be surprised how much simpler that is if you know that payroll will hit on a certain day. There’s no “maybe” or “I’ll pay myself late”; you have to hit your mark every month (I pay myself monthly). That’ll keep things lined up and running smoothly.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The "Netflix for Education" Vision]]></title>
+   
+   <link href="https://www.edsurge.com/news/2016-08-13-why-we-don-t-need-a-netflix-for-education"/>
+   
+    <updated>2016-08-15T16:28:13-05:00</updated>
+    <id>/2016/08/15/the-netflix-for-education-vision</id>
+    <content type="html"><![CDATA[<p>Jay Lynch of Pearson:</p>
+
+<blockquote>
+  <p>But despite the compelling nature of this “Netflix of Education” vision, it can encourage a misleading view of personalized learning. Examining several key areas where the educational Netflix analogy breaks down can help us better understand the qualities of an effective personalized learning solution. Failure to appreciate these points will result in personalized learning products more likely to hinder than help students.</p>
+</blockquote>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Worst Ants in the World]]></title>
+   
+   <link href="http://arstechnica.com/science/2016/08/meet-the-worst-ants-in-the-world/"/>
+   
+    <updated>2016-08-12T17:46:35-05:00</updated>
+    <id>/2016/08/12/the-worst-ants-in-the-world</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>L. humile isn’t your stereotypical ant, with one queen and many workers laboring in a single nest. Argentine ants have multiple queens per colony, and there can be as many as 300 queens for every 1,000 workers. This makes them virtually impossible to kill with poison bait traps, which work on the principle that workers bring the tasty toxins back to the queen, whose death destroys the colony. When you have a lot of queens, that’s not an effective strategy.</p>
+</blockquote>
+
+<p>An excellent article by Annalee Newitz on Argentine ants.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Taking Away the Ambiguity]]></title>
+   
+   <link href="https://shawnblanc.net/2015/07/outlining-the-focus-course/"/>
+   
+    <updated>2016-08-12T16:45:52-05:00</updated>
+    <id>/2016/08/12/taking-away-the-ambiguity</id>
+    <content type="html"><![CDATA[<p>Shawn Blanc on writing his Focus Course using good planning and index cards:</p>
+
+<blockquote>
+  <p>Lastly, the constraints of the notecards themselves — a single topic with a pre-defined outline — took away much of the ambiguity involved in the writing process. All I had left to do was expound on the ideas I had already written down.</p>
+</blockquote>
+
+<p>Index cards, solid outline, or mindmap. Don’t write without a plan!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Proper Index Cards]]></title>
+   
+   <link href="http://ryanirelan.com/2016/08/12/proper-index-cards.html"/>
+   
+    <updated>2016-08-12T16:40:37-05:00</updated>
+    <id>/2016/08/12/proper-index-cards</id>
+    <content type="html"><![CDATA[<p>I’m not sure what happened with index cards. Most of the cards you can buy now are <em>not</em> cut from card stock but instead a heavyweight paper stock.<sup id="fnref:notapaperexpert"><a href="#fn:notapaperexpert" class="footnote">1</a></sup></p>
+
+<p>You do not want those. <a href="http://www.staples.com/Oxford-3-inch-x-5-inch-Heavy-Weight-Lined-Ruled-White-Index-Cards-100/product_71737">You want these. Oxford 3x5 Heavy weight index card </a> (I’ll leave lined or unlined up to you–I prefer lined).</p>
+
+<p>My local office supply didn’t have them the last time I ordered, so I used Amazon. I just looked and even Amazon isn’t carrying them (third party sellers were but I don’t use them because they’re price gougers). You might want to stock up.</p>
+
+<p>An alternative is the excellent looking <a href="http://nockco.com/paper/dotdash-3-x-5-note-cards">DotDash notecard by Nock Co.</a> They are quite a bit more expensive but you will get quality.</p>
+
+<p>My video on how I create courses for <a href="https://mijingo.com">Mijingo</a> explains how I use notecards:</p>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/34iWYR1U6aE?list=PLCy7dPypkr2pO78F3p3Go8daNLLCd7CfF" frameborder="0" allowfullscreen=""></iframe>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:notapaperexpert">
+      <p>I’m not a paper expert so if I’m confusing the terms “card stock” and “heavy weight paper” please correct me. Let’s just one is too thin and the other is a proper index card, deal? <a href="#fnref:notapaperexpert" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Obama on Feminism]]></title>
+   
+   <link href="http://www.glamour.com/story/glamour-exclusive-president-barack-obama-says-this-is-what-a-feminist-looks-like"/>
+   
+    <updated>2016-08-04T07:16:47-05:00</updated>
+    <id>/2016/08/04/obama-on-feminism</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>But I also have to admit that when you’re the father of two daughters, you become even more aware of how gender stereotypes pervade our society. You see the subtle and not-so-subtle social cues transmitted through culture. You feel the enormous pressure girls are under to look and behave and even think a certain way.</p>
+</blockquote>
+
+<p>This sums up my biggest challenge as the father of a daugther.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts from an Olympic Trials Coach]]></title>
+   
+   <link href="http://scienceofrunning.com/2016/07/thoughts-and-lessons-from-the-olympic-trials.html"/>
+   
+    <updated>2016-08-03T04:48:41-05:00</updated>
+    <id>/2016/08/03/thoughts-from-an-olympic-trials-coach</id>
+    <content type="html"><![CDATA[<p>Some reflections by Steve Magness on the experience as a coach at the US Olympic Trials. Steve is also the author of <a href="http://amzn.to/2aTht9e">The Science of Running</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Manton Reece on 1 Year Indie]]></title>
+   
+   <link href="http://www.manton.org/2016/08/1-year-indie.html"/>
+   
+    <updated>2016-08-03T04:36:45-05:00</updated>
+    <id>/2016/08/03/manton-reece-on-1-year-indie</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>And I made a few decisions early on with how to manage the business that have proven useful to smooth over the bumps. For example, I pay myself a fixed salary on the 1st day of each month, and for 12 months straight I’ve always met that goal. This month, I gave myself a small raise.</p>
+</blockquote>
+
+<p>A key to staying sane while on the indie bootstrapping path is to create as many constants as possible. For me, setting up automatic payroll has been one of those constants that reduces worry. It’s like automatically paying your monthlty bills; you have to do it, so make it automatic and then focus on other stuff.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Going back to zero]]></title>
+   
+   <link href="http://www.lennyletter.com/work/a444/screw-mastery/"/>
+   
+    <updated>2016-06-26T14:45:33-05:00</updated>
+    <id>/2016/06/26/going-back-to-zero</id>
+    <content type="html"><![CDATA[<blockquote>
+  <p>Giving up mastery involves a series of humiliations, some of which hit you when you think you’re on solid ground.</p>
+</blockquote>
+
+<p>A wonderful essay by Hanna Rosin on her experience switching careers (writer to NPR reporter) and the vulnerability of going going back to zero.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Back on the Run]]></title>
+   
+   <link href="http://ryanirelan.com/2016/06/15/back-on-the-run-update.html"/>
+   
+    <updated>2016-06-15T07:40:00-05:00</updated>
+    <id>/2016/06/15/back-on-the-run-update</id>
+    <content type="html"><![CDATA[<p>Finally back in a regular running routine. I’m still taking it easier than usual as a precaution. The first few runs were a struggle but I’ve found my pace again.  No races scheduled until September at the earliest so there’s no pressure.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Adam Savage Interviews Tom Sachs]]></title>
+   
+   <link href="https://www.youtube.com/watch?v=cxLxwbm7FMA"/>
+   
+    <updated>2016-06-10T20:14:07-05:00</updated>
+    <id>/2016/06/10/adam-savage-interviews-tom-sachs</id>
+    <content type="html"><![CDATA[<p>Fifty five minutes of gold.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pete Souza's Photos of Barack Obama]]></title>
+   
+   <link href="https://www.theguardian.com/artanddesign/2016/may/29/pete-souza-photographing-the-real-barack-obama"/>
+   
+    <updated>2016-05-30T15:46:45-05:00</updated>
+    <id>/2016/05/30/pete-souzas-photos-of-barack-obama</id>
+    <content type="html"><![CDATA[<p>I’ve enjoyed so many of his photographs over the last eight years.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ben Brooks' Traveling Light Series]]></title>
+   
+   <link href="https://brooksreview.net/tag/travel-light/"/>
+   
+    <updated>2016-05-30T04:15:43-05:00</updated>
+    <id>/2016/05/30/ben-brooks-on-traveling-lightly</id>
+    <content type="html"><![CDATA[<p>Ben Brooks has been doing a series of articles covering his preferred setup for traveling light. This is mostly aimed at business travel (because we all know that traveling light with kids is LOL) but there are things here you can pull into any travel kit, whether business or pleasure.</p>
+
+<p><a href="https://brooksreview.net/tag/travel-light/">See all his articles on the topic</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Bastrop State Park]]></title>
+   
+   <link href="http://ryanirelan.com/2016/05/30/bastrop-state-park.html"/>
+   
+    <updated>2016-05-30T00:00:00-05:00</updated>
+    <id>/2016/05/30/bastrop-state-park</id>
+    <content type="html"><![CDATA[<p><img src="/images/bastrop-state-park.jpg" alt="Bastrop State Park" /></p>
+
+<p>Last weekend we did a quick one night camping trip at Bastrop State Park. We were here last Septemeber for the Burning Pine 10k race I ran. Even though the hilly park road had me finding a little religion around mile 5, I really enjoyed the park and wanted to return for a more relaxed adventure.</p>
+
+<p>Bastrop State Park was hit hard by two disasters in four years: the 2011 wildfires during an awful central Texas drought, and the 2015 Memorial Day flooding.</p>
+
+<p>The 2011 wildfires took out 97% of the pine trees in the park. Almost five years later, the carnage is striking and eery. I’m no forester but I’d guess it’ll take decades or a century to return to a rich pine tree forest (if ever at all).</p>
+
+<p>Last year’s flooding (which also hit Austin metro area) drained the small park lake after it overflowed and breached a dam/roadway and emptied into the surrounding area, destroying a park road.</p>
+
+<p>Bastrop State Park is very nicely outfitted park for tent and RV camping. Nice sites, facilities, and a YMCA-run swimming pool. We’ll definitely return.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Back to Running]]></title>
+   
+   <link href="http://ryanirelan.com/2016/05/04/back-to-running.html"/>
+   
+    <updated>2016-05-04T07:21:32-05:00</updated>
+    <id>/2016/05/04/back-to-running</id>
+    <content type="html"><![CDATA[<p>Did my first run this morning since my stress fracture. Almost exactly 3 months since my last run. Feels like, too.</p>
+]]></content>
+  </entry>
+  
+</feed>
