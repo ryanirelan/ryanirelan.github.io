@@ -1,0 +1,2 @@
+[runners.docker]
+pull-policy = "always"
