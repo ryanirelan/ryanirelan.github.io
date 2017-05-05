@@ -1,7 +1,7 @@
 variables:
   S3_BUCKET_NAME: "ryanirelan.com"
 deploy:
-  image: mijingo/jekyll-aws:latest
+  image: mijingo/jekyll-aws:bundler
   script:
   - bundle config --global silence_root_warning 1
   - bundle install
