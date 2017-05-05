@@ -5,7 +5,7 @@ deploy:
   script:
   - gem install pkg-config
   - bundle config --global silence_root_warning 1
-  - bundle config build.nokogiri
+  - bundle config build.nokogiri --use-system-libraries
   - bundle install
   - bundle clean --force
   - jekyll build
