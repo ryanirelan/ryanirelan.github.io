@@ -3,7 +3,6 @@ variables:
 deploy:
   image: mijingo/jekyll-aws:latest
   script:
-  - gem install pkg-config -v "~> 1.1.7"
   - bundle config --global silence_root_warning 1
   - bundle install
   - bundle clean --force
