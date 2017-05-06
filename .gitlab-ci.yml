@@ -3,6 +3,7 @@ variables:
 deploy:
   image: mijingo/jekyll-aws:latest
   script:
+  - apt-get install zlib1g-dev
   - bundle config --global silence_root_warning 1
   - bundle install
   - bundle clean --force
