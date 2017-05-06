@@ -3,8 +3,5 @@ variables:
 deploy:
   image: mijingo/jekyll-aws:latest
   script:
-  - bundle config --global silence_root_warning 1
-  - bundle install
-  - bundle clean --force
   - jekyll build
   - aws s3 cp ./_site s3://$S3_BUCKET_NAME/ --recursive --exclude "*" --include "*.html"
