@@ -1,7 +1,7 @@
 variables:
   S3_BUCKET_NAME: "ryanirelan.com"
 deploy:
-  image: mijingo/jekyll-aws:latest
+  image: jekyll/jekyll:pages
   script:
   - jekyll build
   - aws s3 cp ./_site s3://$S3_BUCKET_NAME/ --recursive --exclude "*" --include "*.html"
