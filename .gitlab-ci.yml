@@ -7,4 +7,4 @@ deploy:
   - bundle install
   - bundle clean --force
   - jekyll build
-  - aws s3 cp ./_site s3://$S3_BUCKET_NAME/ --recursive --exclude "*" --include "*.html"
+  - aws s3 cp ./_site s3://$S3_BUCKET_NAME/ --recursive --region "us-east-1" --exclude "*" --include "*.html"
