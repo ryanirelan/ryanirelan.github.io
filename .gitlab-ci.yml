@@ -1,5 +1,6 @@
 variables:
   S3_BUCKET_NAME: "ryanirelan.com"
+  S3_REGION: "us-east-1"
 deploy:
   image: mijingo/aws-jekyll-new
   script:
