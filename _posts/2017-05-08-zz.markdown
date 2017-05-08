@@ -1,0 +1,7 @@
+---
+layout: update
+title: ZZ
+date: 2017-05-08 08:17:46
+---
+
+For some reason ZZ (shift-zz) is the most pleasurable of all the Vim commands. A small pleasant tea party between two neighbors.
