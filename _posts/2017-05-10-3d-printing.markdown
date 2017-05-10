@@ -1,0 +1,7 @@
+---
+layout: update
+title: 3D Printing
+date: 2017-05-10 13:58:16
+---
+
+A 3D printer has invaded my studio and now...well, now I'm scanning my office for problems I can solve with a printed object.
