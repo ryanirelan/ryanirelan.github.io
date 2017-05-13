@@ -17,7 +17,7 @@ Here's my workflow: I post very short updates to this site that are shorter than
 
 This is a bit of a shift in thinking but it is nice to keep my important updates (Twitter replies don't count) included in my own content archive.
 
-When I moved this site to Jekyll almost six years ago, I shared that I was interested in a future-proof way to keep my content.
+When I moved this site to Jekyll almost six years ago, [I shared that I was interested in a future-proof way to keep my content](http://ryanirelan.com/2011/07/30/navel-gazing.html):
 
 > This Spring I moved the site to Jekyll, which isn’t really a CMS at all. It’s a Ruby tool that generates a static website from a series of text files for entries and layout files. Every time I write a new entry (like this one) the site is completely regenerated. Movable Type did this, too, but Jekyll doesn’t have a GUI, isn’t a web application (you run it completely on your local machine), is free and surely won’t be sold to some weird advertising company. Also, Jekyll generates my site from Markdown files, which are just text files and will never fall victim to obsolete software. Sounds like a winner to me.
 
