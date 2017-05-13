@@ -1,10 +1,11 @@
 variables:
   S3_BUCKET_NAME: "ryanirelan.com"
+  S3_REGION: "us-east-1"
 deploy:
-  image: mijingo/jekyll-aws:latest
+  image: mijingo/aws-jekyll-new
   script:
   - bundle config --global silence_root_warning 1
   - bundle install
   - bundle clean --force
   - jekyll build
-  - aws s3 cp ./_site s3://$S3_BUCKET_NAME/ --recursive --exclude "*" --include "*.html"
+  - aws s3 cp ./_site s3://$S3_BUCKET_NAME/ --recursive --region "us-east-1" --exclude "*" --include "*.html"
