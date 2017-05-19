@@ -11,7 +11,7 @@
         {
             "id": "http://ryanirelan{{ post.id }}",
             "title": "{% if post.layout == 'update' %}{% else %}{{ post.title }}{% endif %}",
-            "content_html": "{{ post.content | xml_escape }}",
+            "content_html": "{{ post.content }}",
             {% if post.external-url %}
             "url": "{{ post.external-url }}",
             {% else %}
