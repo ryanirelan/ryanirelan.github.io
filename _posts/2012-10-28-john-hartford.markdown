@@ -53,4 +53,4 @@ Aereo-Plain is available on iTunes and Rdio. You might even be able to [find it 
 
 I also created an [Rdio playlist called John Hartford Starter](http://rd.io/x/QFpdL1Xe4g) with some of my favorite John Hartford songs. But please don't use this as the only way to discover his music. The songs truly stick together better in the original album form. Consider my playlist just a snapshot of my personal favorites, not representative of his catalog.
 
-Enjoy the music!
+Enjoy the music.
