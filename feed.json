@@ -6,6 +6,11 @@
     "title": "Ryan Irelan",
     "home_page_url": "http://ryanirelan.com",
     "feed_url": "http://ryanirelan.com/feed.json",
+    "author": {
+      "name": "Ryan Irelan",
+      "url": "http://ryanirelan.com",
+      "avatar": "https://pbs.twimg.com/profile_images/740902213501911040/0w1SAe_F_bigger.jpg"
+    },
     "items": [
       {% for post in site.posts limit:15 %}
         {
