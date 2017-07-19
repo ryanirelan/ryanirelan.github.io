@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New RBD Digital App"
+title: "New RB Digital App"
 date: 2017-07-18T22:24:20-5:00
 external-url: http://feedproxy.google.com/~r/TheDigitalReader/~3/jtA8TvNudO0/
 ---
