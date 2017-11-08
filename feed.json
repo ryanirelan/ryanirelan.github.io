@@ -12,7 +12,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/740902213501911040/0w1SAe_F_bigger.jpg"
     },
     "items": [
-      {% for post in site.posts %}
+      {% for post in site.posts limit:15 %}
         {
             "id": "http://ryanirelan{{ post.id }}",
             "title": "{% if post.layout == 'update' %}{% else %}{{ post.title }}{% endif %}",
