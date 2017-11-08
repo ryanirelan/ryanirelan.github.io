@@ -13,7 +13,7 @@
    <email>ryan@irelan.net</email>
  </author>
 
- {% for post in site.posts limit:50 offset:50 %}
+ {% for post in site.posts limit:100 %}
  <entry>
    <title>{% if post.layout == 'update' %}{% else %}{{ post.title }}{% endif %}</title>
    {% if post.external-url %}
