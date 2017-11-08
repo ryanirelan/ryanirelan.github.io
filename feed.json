@@ -12,18 +12,19 @@
       "avatar": "https://pbs.twimg.com/profile_images/740902213501911040/0w1SAe_F_bigger.jpg"
     },
     "items": [
-      {% for post in site.posts %}
-        {
-            "id": "http://ryanirelan{{ post.id }}",
-            "title": "{% if post.layout == 'update' %}{% else %}{{ post.title }}{% endif %}",
-            "content_html": "{{ post.content }}",
-            {% if post.external-url %}
-            "url": "{{ post.external-url }}",
-            {% else %}
-            "url": "http://ryanirelan{{ post.url }}",
-            {% endif %}
-            "date_published": "{{ post.date | date_to_xmlschema }}"
-        },
-        {% endfor %}
+        {{site.posts | jsonify}}
+      // {% for post in site.posts %}
+      //   {
+      //       "id": "http://ryanirelan{{ post.id }}",
+      //       "title": "{% if post.layout == 'update' %}{% else %}{{ post.title }}{% endif %}",
+      //       "content_html": "{{ post.content }}",
+      //       {% if post.external-url %}
+      //       "url": "{{ post.external-url }}",
+      //       {% else %}
+      //       "url": "http://ryanirelan{{ post.url }}",
+      //       {% endif %}
+      //       "date_published": "{{ post.date | date_to_xmlschema }}"
+      //   },
+      //   {% endfor %}
     ]
 }
