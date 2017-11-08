@@ -20,7 +20,7 @@ layout: null
 "items": [
     {% for post in site.posts %}
         {
-            "id": "{{ post.url | absolute_url | sha1 }}",
+            "id": "{{ post.slug }}",
             "title": {{ post.title | jsonify }},
             "summary": {{ post.seo_description | jsonify }},
             "content_text": {{ post.content | strip_html | strip_newlines | jsonify }},
